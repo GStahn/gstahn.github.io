@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Willkommen
+title: Welcome
 ---
 
 # Hallo! 👋
