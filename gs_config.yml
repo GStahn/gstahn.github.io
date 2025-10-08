@@ -1,0 +1,8 @@
+title: Meine Website
+description: Kurzbeschreibung deiner Seite
+theme: minima
+
+# Menüpunkte oben (Dateien legen wir gleich an)
+header_pages:
+  - about.md
+  - kontakt.md
