@@ -7,7 +7,7 @@ permalink: /kontakt/
 # Contact
 You can reach me via e-mail: [gerrit.stahn93.gs4@gmail.com](mailto:gerrit.stahn93.gs4@gmail.com)
 
-My LinkedIn profil: <https://www.linkedin.com/in/gerrit-stahn-7951b4313>
+My LinkedIn profil: [Gerrit Stahn](https://www.linkedin.com/in/gerrit-stahn-7951b4313)
 
 Are you interested in my projects? Feel free to visit my Github repos: 
 - [Team Assignment App](https://github.com/GStahn/Shiny_random_teams)
