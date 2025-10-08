@@ -4,10 +4,8 @@ title: Willkommen
 ---
 
 # Hallo! 👋
-Schön, dass du hier bist. Das ist meine neue Website mit GitHub Pages.
+Diese Seite befindet sich noch im Aufbau.
 
-- ✨ Einfach geschrieben in **Markdown**
-- 🚀 Kostenlos gehostet
-- 🎨 Mit dem *minima*-Theme
+Stay tuned for updates.
 
-[Mehr über mich](./about) · [Kontakt](./kontakt)
+[About me](./about) · [Contact](./kontakt)
