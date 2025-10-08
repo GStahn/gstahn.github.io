@@ -4,5 +4,5 @@ title: About me
 permalink: /about/
 ---
 
-# Aubout me
+# About me
 Soon you will find some information about me here.
