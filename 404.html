@@ -1,8 +1,38 @@
 ---
-layout: page
+layout: base
 title: 'Page Not Found :('
 permalink: /404.html
 ---
+
+<style>
+.page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1.5rem;
+}
+
+/* 🔧 Tighten spacing around lists */
+.page-content ul {
+  list-style-position: inside; /* bullets closer to text */
+  padding-left: 0;             /* remove extra indent */
+  margin-top: 0.5rem;          /* smaller gap above */
+  margin-bottom: 1.5rem;       /* balanced spacing below */
+}
+
+.page-content li {
+  margin: 0.25rem 0;           /* tighten space between items */
+}
+</style>
 
 <div class="center-container">
 
