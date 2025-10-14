@@ -30,17 +30,6 @@ navbar-links:
     - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
   Contact: "contact"
 
-# -----------------------------------------------------------------------------
-# Jekyll Polyglot
-# -----------------------------------------------------------------------------
-
-languages: ["English", "Deutsch"]
-default_lang: "English"
-exclude_from_localization: ["assets"]
-lang_from_path: true
-country_flag: true 
-parallel_localization: false
-
 ################
 # --- Logo --- #
 ################
