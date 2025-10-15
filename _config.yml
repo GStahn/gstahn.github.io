@@ -27,8 +27,8 @@ navbar-links:
     - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
   Contact: "contact"
   Language: 
-    en: Hello!
-    de: Hallo!
+    - en: Hello!
+    - de: Hallo!
 
 ################
 # --- Logo --- #
