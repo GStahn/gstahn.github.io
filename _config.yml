@@ -270,7 +270,7 @@ languages: ["en", "de"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
 parallel_localization: false
-url: https://polyglot.untra.io
+url: https://gstahn.github.io
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
