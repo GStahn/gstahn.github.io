@@ -1,5 +1,5 @@
 ###########################################################
-### Welcome to Beautiful Jekyll!
+### Welcome to the _config file for my website.
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
 ### the initial set up you won't need to come back to this file often.
@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Dr. Stahn
 
 # Your name to show in the footer
-author: Some Person
+author: Dr. Gerrit Stahn
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Let's talk about Money: "letstalkmoney"
+  Other Projects:
+    - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
+    - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
@@ -32,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/mypicture.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,22 +51,22 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "gerrit.stahn93.gs4@gmail.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: gstahn
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: gerrit-stahn-7951b4313
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+  spotify: gerrit.stahn
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -74,7 +75,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0009-0001-9113-5327
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
@@ -94,9 +95,11 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
+  spotify: true
+  ORCID: true
   vk: false
   reddit: false
 
@@ -136,17 +139,20 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#FFFFFF"              
+text-col: "#2C2C2C"              
+link-col: "#E4572E"              
+hover-col: "#D64545"            
+navbar-col: "#F5F7F2"            
+navbar-text-col: "#2C2C2C"       
+navbar-border-col: "#C8D5B9"     
+footer-col: "#F0F2EC"            
+footer-text-col: "#606060"       
+footer-link-col: "#4A7C59"     
+footer-hover-col: "#D64545"      
+accent-green: "#4A7C59"         
+accent-orange: "#E4572E"         
+accent-red: "#D64545"   
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
