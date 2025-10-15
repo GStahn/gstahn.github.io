@@ -265,6 +265,13 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
 
+# Polyglot
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+parallel_localization: false
+url: https://polyglot.untra.io
+
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
