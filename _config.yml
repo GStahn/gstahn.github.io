@@ -26,6 +26,9 @@ navbar-links:
     - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
     - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
   Contact: "contact"
+  Language: 
+    en: Hello!
+    de: Hallo!
 
 ################
 # --- Logo --- #
