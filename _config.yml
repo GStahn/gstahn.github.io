@@ -40,7 +40,6 @@ navbar-links:
     - en
     - de
 
-version: 1.11.0
 # practical values langsep are "|", "•", "·", "-", "–"
 langsep: "•"
 
@@ -282,13 +281,6 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
 
-# Polyglot
-languages: ["en", "de"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
-parallel_localization: false
-url: https://gstahn.github.io
-
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
@@ -335,5 +327,16 @@ plugins:
 allowlist: 
 - jekyll-redirect-from
 
+# -----------------------------------------------------------------------------
+# Jekyll Polyglot
+# -----------------------------------------------------------------------------
+
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+lang_from_path: true
+country_flag: true # set true for allowing flag symbol in language toggle
+parallel_localization: false
+
 # Beautiful Jekyll / Dean Attali
-# Adjustements by Gerrit Stahn
+# Adjustments by Gerrit Stahn
