@@ -20,15 +20,29 @@ author: Dr. Gerrit Stahn
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Let's talk about Money: "letstalkmoney"
-  Other Projects:
-    - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
-    - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
-  Contact: "contact"
+  aboutme: 
+    en: About Me
+    de: Über mich
+  letstalkmoney:
+    en: Let's talk about Money
+    de: Reden wir über Geld
+  otherprojects:
+    en: Other Projects
+      - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
+      - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
+    de: Andere Projekte
+      - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
+      - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
+  contact:
+    en: Contact
+    de: Kontakt
   Language: 
-    - en: Hello!
-    - de: Hallo!
+    - en
+    - de
+
+version: 1.11.0
+# practical values langsep are "|", "•", "·", "-", "–"
+langsep: "•"
 
 ################
 # --- Logo --- #
