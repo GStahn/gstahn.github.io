@@ -15,6 +15,9 @@ title: Dr. Stahn
 # Your name to show in the footer
 author: Dr. Gerrit Stahn
 
+url: https://gstahn.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
