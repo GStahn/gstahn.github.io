@@ -268,6 +268,16 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
 
+# Where things are
+source:       .
+destination:  .
+layouts_dir:  _layouts
+data_dir:     _data
+includes_dir: _includes
+collections:
+  posts:
+    output:   true
+
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
