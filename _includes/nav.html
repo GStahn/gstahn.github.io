@@ -53,7 +53,7 @@
       {% if site.active_lang == site.default_lang %}
         <a class="nav-link" href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}">
           {% if site.country_flag %}
-            {% if other_language == "en" %}🇬🇧{% elsif other_language == "de" %}🇩🇪{% endif %}
+            {% if other_language == "en" %}🇩🇪{% elsif other_language == "de" %}🇬🇧{% endif %}
           {% else %}
             {{ other_language | upcase }}
           {% endif %}
@@ -61,7 +61,7 @@
       {% else %}
         <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
           {% if site.country_flag %}
-            {% if site.default_lang == "en" %}🇬🇧{% elsif site.default_lang == "de" %}🇩🇪{% endif %}
+            {% if site.default_lang == "en" %}🇩🇪{% elsif site.default_lang == "de" %}🇬🇧{% endif %}
           {% else %}
             {{ site.default_lang | upcase }}
           {% endif %}
@@ -72,7 +72,7 @@
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="langDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         {% if site.country_flag %}
-          {% if site.active_lang == "en" %}🇩🇪{% elsif site.active_lang == "de" %}🇬🇧{% endif %}
+          {% if site.active_lang == "en" %}🇬🇧{% elsif site.active_lang == "de" %}🇩🇪{% endif %}
         {% else %}
           {{ site.active_lang | upcase }}
         {% endif %}
