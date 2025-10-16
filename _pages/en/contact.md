@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+page_id: contact
 ---
 
 # Contact
