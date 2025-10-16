@@ -26,17 +26,17 @@ navbar-links:
   en:
     About me: "/about"
     Let's talk about Money: "/letstalkmoney"
-    Other projects:
-      - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
-      - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
+ #   Other projects:
+ #     - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
+ #     - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
     Contact: "/contact"
     
   de:
     Über mich: "/de/about"
     Reden über Geld: "/de/letstalkmoney"
-    Andere Projekte:
-      - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
-      - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
+#    Andere Projekte:
+#      - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
+#      - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
     Kontakt: "/de/contact"
 
 ################
