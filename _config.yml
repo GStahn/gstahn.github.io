@@ -22,7 +22,7 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
+navbar:
  aboutme: 
    en: About me
    de: Über mich 
