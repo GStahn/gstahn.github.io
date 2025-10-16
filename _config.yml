@@ -45,9 +45,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-# Dimensions
-max_width: 1000px
-
 #####################################
 # --- Footer social media links --- #
 #####################################
