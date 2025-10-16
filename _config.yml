@@ -30,9 +30,6 @@ navbar-links:
     - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
   Contact: "contact"
 
-# practical values langsep are "|", "•", "·", "-", "–"
-langsep: "•"
-
 ################
 # --- Logo --- #
 ################
