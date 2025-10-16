@@ -26,7 +26,7 @@ navbar-links:
   en:
     About me: "about"
     Let's talk about Money: "letstalkmoney"
-    Andere Projekte:
+    Other projects:
       - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
       - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
     Contact: "contact"
