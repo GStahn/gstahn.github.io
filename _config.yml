@@ -16,7 +16,7 @@ title: Dr. Stahn
 author: Dr. Gerrit Stahn
 
 url: https://gstahn.github.io # the base hostname & protocol for your site
-baseurl: /gstahn.github.io # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 
 ###############################################
 # --- List of links in the navigation bar --- #
