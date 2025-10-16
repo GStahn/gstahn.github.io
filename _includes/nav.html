@@ -42,63 +42,35 @@
         </li>
       {%- endif -%}
 
-      <!-- 🌐 Language Toggle (Polyglot compatible) -->
-      {% if site.languages.size >= 2 %}
-        {% if site.languages.size == 2 %}
-          {% if site.active_lang == site.languages.first %}
-            {% assign other_language = site.languages.last %}
-          {% else %}
-            {% assign other_language = site.languages.first %}
-          {% endif %}
-          <li class="nav-item">
-            {% if site.active_lang == site.default_lang %}
-              <a class="nav-link" href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}">
-                {% if site.country_flag %}
-                  {% if other_language == "en" %}🇬🇧{% elsif other_language == "de" %}🇩🇪{% endif %}
-                {% else %}
-                  {{ other_language | upcase }}
-                {% endif %}
-              </a>
-            {% else %}
-              <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
-                {% if site.country_flag %}
-                  {% if site.default_lang == "en" %}🇬🇧{% elsif site.default_lang == "de" %}🇩🇪{% endif %}
-                {% else %}
-                  {{ site.default_lang | upcase }}
-                {% endif %}
-              </a>
-            {% endif %}
-          </li>
+     <!-- 🌐 Simple Language Toggle (Bootstrap 3 safe) -->
+{% if site.languages.size >= 2 %}
+  {% if site.active_lang == site.languages.first %}
+    {% assign other_language = site.languages.last %}
+  {% else %}
+    {% assign other_language = site.languages.first %}
+  {% endif %}
+
+  <li class="nav-item" style="margin-left: 5px;">
+    {% if site.active_lang == site.default_lang %}
+      <a class="nav-link" href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}">
+        {% if site.country_flag %}
+          {% if other_language == "en" %}🇬🇧{% elsif other_language == "de" %}🇩🇪{% endif %}
         {% else %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="langDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              {% if site.country_flag %}
-                {% if site.active_lang == "en" %}🇬🇧{% elsif site.active_lang == "de" %}🇩🇪{% endif %}
-              {% else %}
-                {{ site.active_lang | upcase }}
-              {% endif %}
-            </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="langDropdown">
-              {% for l in site.languages %}
-                {% if l != site.active_lang %}
-                  {% if l == site.default_lang %}
-                    <a class="dropdown-item" href="{{ site.baseurl }}{{ page.url }}">
-                  {% else %}
-                    <a class="dropdown-item" href="{{ site.baseurl }}/{{ l }}{{ page.url }}">
-                  {% endif %}
-                    {% if site.country_flag %}
-                      {% if l == "en" %}🇬🇧{% elsif l == "de" %}🇩🇪{% endif %}
-                    {% else %}
-                      {{ l | upcase }}
-                    {% endif %}
-                    </a>
-                {% endif %}
-              {% endfor %}
-            </div>
-          </li>
+          {{ other_language | upcase }}
         {% endif %}
-      {% endif %}
-      <!-- end language toggle -->
+      </a>
+    {% else %}
+      <a class="nav-link" href="{{ site.baseurl }}{{ page.url }}">
+        {% if site.country_flag %}
+          {% if site.default_lang == "en" %}🇬🇧{% elsif site.default_lang == "de" %}🇩🇪{% endif %}
+        {% else %}
+          {{ site.default_lang | upcase }}
+        {% endif %}
+      </a>
+    {% endif %}
+  </li>
+{% endif %}
+<!-- end language toggle -->
     </ul>
   </div>
 
