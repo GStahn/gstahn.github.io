@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About 
-permalink: de/about
+permalink: /about/
 lang: de
 page_id: about
 ---
