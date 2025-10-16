@@ -23,12 +23,12 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 ###############################################
 
 navbar-links:
- aboutme: 
-   en: About me
-   de: Über mich 
- letstalkmoney:
-   en: Let's talk about money
-   de: Reden wir über Geld 
+  About Me: "aboutme"
+  Let's talk about Money: "letstalkmoney"
+  Other Projects:
+    - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
+    - Random Team Creation App: "https://github.com/GStahn/Shiny_random_teams"
+  Contact: "contact"
   
 ################
 # --- Logo --- #
