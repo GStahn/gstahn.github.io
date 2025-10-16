@@ -26,9 +26,9 @@ navbar:
  aboutme: 
    en: About me
    de: Über mich 
-  letstalkmoney:
-    en: Let's talk about money
-    de: Reden wir über Geld 
+ letstalkmoney:
+   en: Let's talk about money
+   de: Reden wir über Geld 
   
 ################
 # --- Logo --- #
