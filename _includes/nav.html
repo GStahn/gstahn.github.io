@@ -72,7 +72,7 @@
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle" href="#" id="langDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
         {% if site.country_flag %}
-          {% if site.active_lang == "en" %}🇬🇧{% elsif site.active_lang == "de" %}🇩🇪{% endif %}
+          {% if site.active_lang == "en" %}🇩🇪{% elsif site.active_lang == "de" %}🇬🇧{% endif %}
         {% else %}
           {{ site.active_lang | upcase }}
         {% endif %}
