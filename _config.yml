@@ -23,7 +23,7 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about"
   Let's talk about Money: "letstalkmoney"
   Other Projects:
     - Quality-of-Life Index Dashboard: "https://github.com/GStahn/ranking_german_districts"
