@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Welcome'
+theme = 'beautifulhugo'
+
+[Params.author]
+    name = "Gerrit Stahn"
+    website = "https://gstahn.github.io"
+    github = "GStahn"
+    email = "gerrit.stahn93.gs4@gmail.com"
+    linkedin = "gerrit-stahn-7951b4313/"
+    spotify = "gerrit.stahn"
+
+[languages]
+  [languages.en] 
+    contentDir = "content/en" # English
+  [languages.de]
+    contentDir = "content/de" # German
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-PS5Y1REGE6'
