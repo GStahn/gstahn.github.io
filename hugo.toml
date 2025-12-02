@@ -1,7 +1,42 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Welcome'
-theme = 'beautifulhugo'
+baseurl = "/"
+DefaultContentLanguage = "en"
+title = 'Dr. Gerrit Stahn'
+# Using theme as git submodule
+# theme = "beautifulhugo"
+theme = ["beautifulhugo"]
+enableInlineShortcodes = true
+enableEmoji = true
+enableRobotsTXT = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[Params]
+#  homeTitle = "Dr. Gerrit Stahn" # Set a different text for the header on the home page
+#  subtitle = "Welcome to my personal webpage."
+  mainSections = ["post","posts"]
+  logo = "img/mypicture.JPG" # Expecting square dimensions
+  favicon = "img/favicon.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = false
+  delayDisqus = true
+  showRelatedPosts = true
+#  cusdisID = "XXX" # Get your App id from cusdis.com
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way. | Die hierin geäußerten Meinungen sind meine persönlichen Meinungen und geben in keiner Weise die Ansichten meines Arbeitgebers wieder."
 
 [Params.author]
     name = "Gerrit Stahn"
@@ -14,8 +49,125 @@ theme = 'beautifulhugo'
 [languages]
   [languages.en] 
     contentDir = "content/en" # English
+    languageName = 'EN'
+    weight = 10
+     [languages.en.menus]
+        [[languages.en.menus.main]]
+            identifier = "about"
+            name = 'About'
+            weight = 1
+        [[languages.en.menus.main]]
+            parent = "about"
+            name = "Short Profile"
+            url = "page/about/"
+            weight = 1
+        [[languages.en.menus.main]]
+            parent = "about"
+            name = "CV"
+            url = "page/cv/"
+            weight = 2
+        [[languages.en.menus.main]]
+            name = "Contact"
+            url = "page/contact/"
+            weight = 2
+        [[languages.en.menus.main]]
+            name = "Money Talks"
+            identifier = "money"
+            weight = 3
+        [[languages.en.menus.main]]
+            name = "Let's talk!"
+            parent = "money"
+            url = "page/money/"
+            weight = 1
+        [[languages.en.menus.main]]
+            name = "My Reviews"
+            parent = "money"
+            url = "post/reviews/"
+            weight = 2
+        [[languages.en.menus.main]]
+            identifier = "projects"
+            name = "GitHub Projects"
+            weight = 4
+        [[languages.en.menus.main]]
+            parent = "projects"
+            name = "Ranking German Districts"
+            url = "https://github.com/GStahn/ranking_german_districts"
+            weight = 1
+        [[languages.en.menus.main]]
+            parent = "projects"
+            name = "Team Assignment App"
+            url = "https://github.com/GStahn/Shiny_random_teams"
+            weight = 2
+        [[languages.en.menus.main]]
+            parent = "projects"
+            name = "Driving Time Calculation to Ischgl from German Districts"
+            url = "https://github.com/GStahn/driving_time_ischgl"
+            weight = 3
+        [[languages.en.menus.main]]
+            name = "Memes"
+            url = "post/memes/"
+            weight = 5
   [languages.de]
     contentDir = "content/de" # German
+    languageName = 'DE'
+    weight = 2
+       [languages.de.menus]
+        [[languages.de.menus.main]]
+            identifier = "über"
+            name = 'Über mich'
+            pageRef = '/products'
+            weight = 1
+        [[languages.de.menus.main]]
+            parent = "über"
+            name = "Zur Person"
+            url = "page/about/"
+            weight = 1
+        [[languages.de.menus.main]]
+            parent = "über"
+            name = "Lebenslauf"
+            url = "page/cv/"
+            weight = 2
+        [[languages.de.menus.main]]
+            name = "Kontakt"
+            url = "page/contact/"
+            weight = 2
+        [[languages.de.menus.main]]
+            name = "Geld-Gerede"
+            identifier = "geld"
+            weight = 3
+        [[languages.de.menus.main]]
+            name = "Lass uns reden!"
+            parent = "geld"
+            url = "page/money/"
+            weight = 1
+        [[languages.de.menus.main]]
+            name = "Meine Reviews!"
+            parent = "geld"
+            url = "post/reviews/"
+            weight = 2
+        [[languages.de.menus.main]]
+            identifier = "projekte"
+            name = "GitHub Projekte"
+            weight = 4
+        [[languages.de.menus.main]]
+            parent = "projekte"
+            name = "Ranking deutscher Kreise"
+            url = "https://github.com/GStahn/ranking_german_districts"
+            weight = 1
+        [[languages.de.menus.main]]
+            parent = "projekte"
+            name = "Team-Zuweisungs-App"
+            url = "https://github.com/GStahn/Shiny_random_teams"
+            weight = 2
+        [[languages.de.menus.main]]
+            parent = "projekte"
+            name = "Fahrzeitberechnung nach Ischgl aus deutschen Kreisen"
+            url = "https://github.com/GStahn/driving_time_ischgl"
+            weight = 3
+        [[languages.de.menus.main]]
+            name = "Memes"
+            url = "post/memes/"
+            weight = 5
 
 [services]
   [services.googleAnalytics]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Gerrit Stahn</title>
+    <link>//localhost:1313/post/memes/</link>
+    <description>Recent content on Dr. Gerrit Stahn</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</managingEditor>
+    <webMaster>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</webMaster>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/post/memes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tom Meme: Not Cooperating in a Sequential Game.</title>
+      <link>//localhost:1313/post/memes/2025-11-28_tom_notcoop/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
+      <guid>//localhost:1313/post/memes/2025-11-28_tom_notcoop/</guid>
+      <description>&lt;h2 id=&#34;tom-sequential-game&#34;&gt;&lt;img src=&#34;//localhost:1313/img/memes/not_coop_meme.png&#34; alt=&#34;Tom Sequential Game&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; I will use this meme for an exercise in a bachelor-level course on &lt;em&gt;sequential games&lt;/em&gt; to illustrate how this type of game can lead to &lt;em&gt;pareto-inferior&lt;/em&gt; outcomes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bernie Meme: Is playing Powerball really worth it?</title>
+      <link>//localhost:1313/post/memes/2025-11-28_bernie_powerball/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
+      <guid>//localhost:1313/post/memes/2025-11-28_bernie_powerball/</guid>
+      <description>&lt;h2 id=&#34;bernie-lotto&#34;&gt;&lt;img src=&#34;//localhost:1313/img/memes/bernie_powerbal.jpg&#34; alt=&#34;Bernie Lotto&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; I used this meme as an engaging opener for a bachelor-level microeconomics exercise on &lt;em&gt;decision-making under uncertainty and risk&lt;/em&gt;. In that session, I explained the fundamentals of expected utility theory. Among other things, the students were asked to calculate the fair price of a German lottery ticket (6aus49). Since the German &lt;em&gt;Lotto&lt;/em&gt; is comparable to &lt;em&gt;Powerball&lt;/em&gt;, I&amp;rsquo;ve adjusted the meme slightly for my U.S. audience. &amp;#x1f609;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

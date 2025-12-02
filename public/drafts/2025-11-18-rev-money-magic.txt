@@ -1,0 +1,23 @@
+---
+title: "Review: Money Magic"
+subtitle: "von Laurence J. Kotlikoff"
+permalink: /reviews/
+params:
+  lang: en
+page_id: reviews
+date: 2025-11-18
+---
+
+![alt text](img/moneymagic.jpg "Title")
+
+> "Test" (S. )
+
+## Kurze Inhaltswiedergabe
+
+## Meine Gedanken zum Buch
+
+## Meine Take-Aways
+
+### Links
+
+
