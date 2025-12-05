@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Dr. Gerrit Stahn</title>
-    <link>//localhost:1313/page/</link>
+    <link>http://192.168.178.65:1313/page/</link>
     <description>Recent content in Pages on Dr. Gerrit Stahn</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</managingEditor>
     <webMaster>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</webMaster>
     <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.178.65:1313/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Money Talks</title>
-      <link>//localhost:1313/page/money/</link>
+      <link>http://192.168.178.65:1313/page/money/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
-      <guid>//localhost:1313/page/money/</guid>
+      <guid>http://192.168.178.65:1313/page/money/</guid>
       <description>&lt;h1 id=&#34;talking-about-finances--stress-free&#34;&gt;&lt;strong&gt;Talking About Finances – Stress-Free&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;br&gt;&#xA;&lt;h2 id=&#34;why-i-am-doing-this&#34;&gt;Why I am doing this&lt;/h2&gt;&#xA;&lt;p&gt;For many years, I’ve been deeply engaged with &lt;strong&gt;private retirement planning&lt;/strong&gt;, &lt;strong&gt;stock and ETF strategies&lt;/strong&gt;, and &lt;strong&gt;insurance products&lt;/strong&gt;. Looking back, I realized that my biggest problem was often &lt;strong&gt;not&lt;/strong&gt; the question “What is the best product for me?” but rather &lt;strong&gt;What is it that I don’t know yet?&lt;/strong&gt;&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wait, what? – I need exemption orders for &lt;em&gt;all&lt;/em&gt; my investment products to make full use of my capital gains tax allowance?&lt;/li&gt;&#xA;&lt;li&gt;Wait, what? – Most actively managed funds do &lt;strong&gt;not&lt;/strong&gt; beat their underlying index? And a large majority doesn’t even outperform chimpanzees?&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&#xA;&lt;li&gt;Wait, what? – Classic capital-building life insurance policies usually don’t generate worthwhile returns because, after costs, they often don’t even compensate for inflation?&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;&#xA;&lt;br&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Knowing that you know nothing is often the first step in the right direction – but it also creates uncertainty. Many people find themselves asking:&lt;br&gt;&#xA;&lt;br&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>//localhost:1313/page/about/</link>
+      <link>http://192.168.178.65:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
-      <guid>//localhost:1313/page/about/</guid>
+      <guid>http://192.168.178.65:1313/page/about/</guid>
       <description>&lt;h1 id=&#34;hi-im-gerrit-&#34;&gt;Hi, I&amp;rsquo;m Gerrit 👋&lt;/h1&gt;&#xA;&lt;p&gt;I’m a &lt;strong&gt;Ph.D. economist&lt;/strong&gt; and &lt;strong&gt;data enthusiast&lt;/strong&gt;. For more than six years, I’ve been turning large datasets into &lt;strong&gt;clear and tangible insights&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;At Martin Luther University Halle-Wittenberg, my research focuses on &lt;strong&gt;public health and data-driven economic analysis&lt;/strong&gt;. What fascinates me most is how the right structure, methods, and a touch of curiosity can bring clarity to complex relationships.&lt;/p&gt;&#xA;&lt;p&gt;Beyond academia, I’m passionate about the &lt;strong&gt;intersection of data and creativity&lt;/strong&gt; – especially in the music and entertainment industries. I love experimenting with new tools, building dashboards, or simply engaging in meaningful conversations about intriguing questions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/page/contact/</link>
+      <link>http://192.168.178.65:1313/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
-      <guid>//localhost:1313/page/contact/</guid>
+      <guid>http://192.168.178.65:1313/page/contact/</guid>
       <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;The easiest way to contact me is via e-mail: &lt;a href=&#34;gerrit.stahn93.gs4@gmail.com&#34;&gt;gerrit.stahn93.gs4@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Are you interested in my projects? Then check out my &lt;a href=&#34;https://github.com/GStahn&#34; rel=&#34;external&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>//localhost:1313/page/cv/</link>
+      <link>http://192.168.178.65:1313/page/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
-      <guid>//localhost:1313/page/cv/</guid>
-      <description>&lt;div style=&#34;&#xA;  margin: 2rem auto;&#xA;  max-width: 900px;&#xA;&#34;&gt;&#xA;  &lt;div style=&#34;&#xA;    border: 1px solid #ddd;&#xA;    border-radius: 10px;&#xA;    overflow: hidden;&#xA;    box-shadow: 0 2px 12px rgba(0,0,0,0.08);&#xA;  &#34;&gt;&#xA;    &lt;iframe &#xA;      src=&#34;//localhost:1313/pdf/Stahn_CV_en.pdf&#34;&#xA;      style=&#34;width:100%; height:850px; border:none;&#34;&gt;&#xA;    &lt;/iframe&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://192.168.178.65:1313/page/cv/</guid>
+      <description>&lt;div style=&#34;&#xA;  margin: 2rem auto;&#xA;  max-width: 900px;&#xA;&#34;&gt;&#xA;  &lt;div style=&#34;&#xA;    border: 1px solid #ddd;&#xA;    border-radius: 10px;&#xA;    overflow: hidden;&#xA;    box-shadow: 0 2px 12px rgba(0,0,0,0.08);&#xA;  &#34;&gt;&#xA;    &lt;iframe &#xA;      src=&#34;http://192.168.178.65:1313/pdf/Stahn_CV_en.pdf&#34;&#xA;      style=&#34;width:100%; height:850px; border:none;&#34;&gt;&#xA;    &lt;/iframe&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
