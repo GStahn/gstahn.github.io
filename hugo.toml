@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "gstahn.de"
 DefaultContentLanguage = "en"
 title = 'Dr. Gerrit Stahn'
 # Using theme as git submodule
@@ -16,6 +16,10 @@ pygmentsCodefencesGuessSyntax = true
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [Params]
 #  homeTitle = "Dr. Gerrit Stahn" # Set a different text for the header on the home page
