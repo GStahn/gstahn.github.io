@@ -18,7 +18,7 @@ This very sentence at the beginning of *Money Magic: An Economist's Secrets to M
 
 # Short Summary of the Content
 
-Published in 2022, the book provides a comprehensive look at lifetime financial planning and addresses many important questions, such as: How do I choose a lucrative career? How do I obtain a quality education affordably? Until when does it currently make sense to work? Is it financially beneficial to marry—or to divorce? And much more. Prof. Kotlikoff includes many “What would be best for Max Mustermann in situation Y given X?”-style examples. As an economist, I particularly enjoyed the many calculations that effectively support his points.
+Published in 2022, the book provides a comprehensive look at lifetime financial planning and addresses many important questions, such as: How do I choose a lucrative career? How do I obtain a quality education affordably? Until when does it currently make sense to work? Is it financially beneficial to marry - or to divorce? And much more. Prof. Kotlikoff includes many “What would be best for Max Mustermann in situation Y given X?”-style examples. As an economist, I particularly enjoyed the many calculations that effectively support his points.
 
 # My Thoughts on the Book
 
@@ -28,11 +28,11 @@ The book was definitely worth its purchase price (about €12 on [Amazon](https:
 
 ## The Living Standard Cone
 
-In Chapter 9 *Invest Like an Economist—Control Your Living Standard Trajectories*, Kotlikoff introduces the idea of the Living Standard Cone. It is based on the concept that annual spending reflects one’s annual living standard. How much someone can spend each year depends partly on the (financial) decisions they make. Different decisions result in different *living standard paths*. Inspired by the figure in the book[^2], I visualized examples of such paths in *Figure 1*. Starting from a baseline of €50,000[^3] in 2025, three scenarios are shown. The dotted line represents a path in which the living standard remains roughly consistent over the next 50 years. I labeled this path *Less Fortunate* because, despite its stability, it reflects gradually declining purchasing power. (That pesky inflation!)
+In Chapter 9 *Invest Like an Economist - Control Your Living Standard Trajectories*, Kotlikoff introduces the idea of the Living Standard Cone. It is based on the concept that annual spending reflects one’s annual living standard. How much someone can spend each year depends partly on the (financial) decisions they make. Different decisions result in different *living standard paths*. Inspired by the figure in the book[^2], I visualized examples of such paths in *Figure 1*. Starting from a baseline of €50,000[^3] in 2025, three scenarios are shown. The dotted line represents a path in which the living standard remains roughly consistent over the next 50 years. I labeled this path *Less Fortunate* because, despite its stability, it reflects gradually declining purchasing power. (That pesky inflation!)
 
 [^2]: See p. 242. \| Unlike the figure in the book, I generated the paths in my figures using stationary time series (without trend and with different positive trends) in R. The script can be found here: [Script_ls_cone.R](downloads/Script_ls_cone.R)
 
-[^3]: What counts toward one’s current living standard? It includes all annual expenses—rent, food, but also yearly savings. This already makes calculating one's current living standard difficult. Accounting for future savings and returns over 50 years makes the task even more complex. If you want to learn how to do this, I recommend Chapter 10 *Making Your Own Money Magic: My Top Fifty Secrets.*
+[^3]: What counts toward one’s current living standard? It includes all annual expenses - rent, food, but also yearly savings. This already makes calculating one's current living standard difficult. Accounting for future savings and returns over 50 years makes the task even more complex. If you want to learn how to do this, I recommend Chapter 10 *Making Your Own Money Magic: My Top Fifty Secrets.*
 
 <p align="center">
 
@@ -42,12 +42,12 @@ In Chapter 9 *Invest Like an Economist—Control Your Living Standard Trajectori
 
 ![Living Standard Cone](img/money_magic_plot.png)
 
-The other two paths look much better. The *Better* and the *Even Better* paths show developments that I myself wish for my financial future. From year to year, I could afford to spend a little more—and ideally more than inflation eats away.[^4]
+The other two paths look much better. The *Better* and the *Even Better* paths show developments that I myself wish for my financial future. From year to year, I could afford to spend a little more and ideally more than inflation eats away.[^4]
 
-[^4]: Although these “better” paths look impressive, even the dashed path would barely make up for the loss in purchasing power—at least if the past 50 years are used as a projection for the future. Inflation strikes again!
+[^4]: Although these “better” paths look impressive, even the dashed path would barely make up for the loss in purchasing power - at least if the past 50 years are used as a projection for the future. Inflation strikes again!
 
-The graph also highlights several interesting points.\
-1. We will not be able to spend the same amount every year (let alone more). Sometimes our living standard falls - due to illness, unemployment, or other shocks.
+The graph also highlights several interesting points.
+1. We will not be able to spend at least the same amount every year. Sometimes our living standard falls - due to illness, unemployment, or other shocks.
 
 2.  Which path we ultimately end up on is uncertain. Here I must offer some critique: In economics, *risk* and *uncertainty* are not synonymous. Decisions under risk assume that individuals know all possible outcomes *and* their probabilities. Under uncertainty, the probabilities are unknown. Although the book frequently uses the word “risk,” I believe that “uncertainty” is the intended meaning - at least that is how I read it, and likely many others do as well. Still, this distinction underscores that we never fully control our living standard.
 
@@ -81,10 +81,10 @@ $$
 
 This percentage depends on the expected return \\(\mu\\), the market volatility \\(\sigma\\), the risk-free rate \\(r\\), and the investor’s degree of risk aversion \\(\gamma\\). Interestingly, the formula does *not* depend on wealth \\(W\\) or time \\(t\\). Meaning: regardless of age or wealth, the *share* of wealth invested in risky assets should remain constant.
 
-*But wait—if the share should stay constant, what investing more in stocks with age?*\
+*But wait - if the share should stay constant, what investing more in stocks with age?*\
 The share stays constant - but maintaining that share requires *action*. The theory implies the following: If the *absolute amount* of **safe** wealth increases, then the amount invested in stocks must also increase to maintain the same risky-asset percentage \\(\pi\\). This is the core of Kotlikoff’s argument. He assumes that retirees have two forms of wealth: safe, periodic income (e.g. pension payments) and invested financial wealth. As retirees gradually draw down their invested wealth, the relative importance of safe wealth increases. To maintain the optimal percentage \\(\pi\\), the remaining portfolio must become more heavily invested in stocks.
 
-As intriguing as this idea is—and as much as it made me think (see *My Take-Aways*) - I find the book’s treatment of the underlying assumptions too brief. The assumptions are only briefly described as unrealistic, yet the resulting recommendations are still applied.[^7]
+As intriguing as this idea is and as much as it made me think (see *My Take-Aways*) - I find the book’s treatment of the underlying assumptions too brief. The assumptions are only briefly described as unrealistic, yet the resulting recommendations are still applied. [^7]
 
 [^7]: See p. 262.
 
@@ -96,20 +96,27 @@ Another assumption is the full fungibility of wealth and future income: the idea
 
 How realistic assumptions are does not determine a model’s usefulness - after all, maps or Google Maps also rely on simplifications (“The world is two-dimensional”). What matters is predictive accuracy. And here lies my issue with the book: Kotlikoff emphasizes that the Merton-Samuelson theory often fails to predict actual investor behavior, **concluding** that people must be poorly informed or poorly advised. This reasoning ignores a third possibility: many people's decision-making may simply be inadequately represented by the model.
 
-*So was the chapter not worth its opportunity costs after all?*\
+*So was the chapter not worth its opportunity costs after all?*
 It absolutely was. The recommendation is explicitly for *retirees* in the *modern world*. Many retirees today have acquired some financial literacy and can trade at negligible cost (assumption: no transaction costs).
 
-Regarding market efficiency, even Shiller argues that increased information availability improves efficiency—and today information is more accessible than ever (welcome to my site!). Algorithmic trading and Robo-Advisors may also stabilize markets against psychological effects (assumption: efficient markets).
+Regarding market efficiency, even Shiller argues that increased information availability improves efficiency - and today information is more accessible than ever (welcome to my site!). Algorithmic trading and Robo-Advisors may also stabilize markets against psychological effects (assumption: efficient markets).
 
 Additionally, the assumption of wealth fungibility appears plausible for many retirees at the start of retirement, as their first pension payments will likely be small compared to their accumulated assets.
 
-Thus, for retirees at the beginning of their pension phase, the model’s assumptions can make sense. Under these circumstances, the conclusion follows: As retirees draw down their savings—and pension income determines more of their living standard—the remaining portfolio should tilt more heavily toward stocks.[^8]
+Thus, for retirees at the beginning of their pension phase, the model’s assumptions can make sense. Under these circumstances, the conclusion follows: As retirees draw down their savings - and pension income determines more of their living standard - the remaining portfolio should tilt more heavily toward stocks.[^8]
 
-[^8]: Yet I still have an open question: How does this conclusion align with the principle of *risk transfer* that we teach in our undergraduate courses? The concept is based on CRRA utility functions and states that people can *pareto-improve* if risk is transferred from the poor to the wealthy. Wealthier individuals benefit by taking on risk from the less wealthy—e.g. by insuring them. Put simply: the richer you are, the more risk you should take on. The poorer you are, the more you avoid risk.
+[^8]: Yet I still have an open question: How does this conclusion align with the principle of *risk transfer* that we teach in our undergraduate courses? The concept is based on CRRA utility functions and states that people can *pareto-improve* if risk is transferred from the poor to the wealthy. Wealthier individuals benefit by taking on risk from the less wealthy - e.g. by insuring them. Put simply: the richer you are, the more risk you should take on. The poorer you are, the more you avoid risk.
 
-    Why then should retirees with accumulated wealth—assuming constant relative risk aversion—invest *less* in risky assets the wealthier they are, while the same theoretical foundation suggests that wealthy individuals should *take on* risks from the less wealthy?
+    Why then should retirees with accumulated wealth - assuming constant relative risk aversion - invest *less* in risky assets the wealthier they are, while the same theoretical foundation suggests that wealthy individuals should *take on* risks from the less wealthy?
 
-    If any reader has more insight on this, I would greatly appreciate hearing from you.
+    If any reader has more insights on this, I would greatly appreciate hearing from you.
+    
+## Unfortunately, not everything is relevant for non-US readers.
+
+Unfortunately, the book offers slightly less value for readers outside the United States than for those within the US. The reason is that chapters 2 through 5, in particular, are very closely tailored to the American context. This is not meant as a criticism of the book itself, as questions such as *What is the best age to retire?* or *How can you save taxes in retirement?* are naturally tied to the social system of the country in which you live.
+
+In the best case, the book might even inspire one of my German readers to write a similar guide for the German market. I would buy it immediately!
+
 
 # My Take-Away
 

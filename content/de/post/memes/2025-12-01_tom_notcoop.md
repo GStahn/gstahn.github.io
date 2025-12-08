@@ -22,4 +22,4 @@ keywords:
 ![Tom Sequentielles Spiel](/img/memes/not_coop_meme.png)
 ---
 
-**Kontext:** Ich werde dieses Meme nutzen für eine Übung in einem Bachelorkurs zum Thema *Sequentielle Spiele* um zu zeigen, wie es bei dieser Art von Spielen zu *pareto-inferioren* Ergebnissen kommen kann.
+**Kontext:** Ich nutze dieses Meme für eine Übung in einem Bachelorkurs zum Thema *Sequentielle Spiele* um zu zeigen, wie es bei dieser Art von Spielen zu *pareto-inferioren* Ergebnissen kommen kann.

@@ -22,4 +22,4 @@ keywords:
 ![Bernie Lotto](/img/memes/bernie_lotto.jpg)
 ---
 
-**Kontext:** Dieses Meme habe ich als Aufhänger verwendet für eine Bachelorübung Mikroökonomik zum Thema *Entscheidungen unter Unsicherheit und Risiko*. In dieser habe ich die Grundlagen der Erwartungsnutzentheorie erklärt. Die Studenten sollten darin u.a. den fairen Preis für einen deutschen Lotto-Schein (6aus49) berechnen.
+**Kontext:** Dieses Meme verwende ich als Aufhänger für eine Bachelorübung Mikroökonomik zum Thema *Entscheidungen unter Unsicherheit und Risiko*. In dieser erkläre ich die Grundlagen der Erwartungsnutzentheorie. Die Studenten sollen darin u.a. den fairen Preis für einen deutschen Lotto-Schein (6aus49) berechnen.

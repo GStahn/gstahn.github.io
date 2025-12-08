@@ -22,5 +22,5 @@ keywords:
 ![Bernie Lotto](/img/memes/bernie_powerbal.jpg)
 ---
 
-**Context:** I used this meme as an engaging opener for a bachelor-level microeconomics exercise on *decision-making under uncertainty and risk*. In that session, I explained the fundamentals of expected utility theory. Among other things, the students were asked to calculate the fair price of a German lottery ticket (6aus49). Since the German *Lotto* is comparable to *Powerball*, I've adjusted the meme slightly for my U.S. audience. :wink:
+**Context:** I use this meme as an engaging opener for a bachelor-level microeconomics exercise on *decision-making under uncertainty and risk*. In that session, I explain the fundamentals of expected utility theory. Among other things, the students have to calculate the fair price of a German lottery ticket (6aus49). Since the German *Lotto* is comparable to *Powerball*, I've adjusted the meme slightly for my U.S. audience. :wink:
 

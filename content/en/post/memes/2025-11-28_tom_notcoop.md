@@ -22,6 +22,6 @@ keywords:
 ![Tom Sequential Game](/img/memes/not_coop_meme.png)
 ---
 
-**Context:** I will use this meme for an exercise in a bachelor-level course on *sequential games* to illustrate how this type of game can lead to *pareto-inferior* outcomes.
+**Context:** I use this meme for an exercise in a bachelor-level course on *sequential games* to illustrate how this type of game can lead to *pareto-inferior* outcomes.
 
 

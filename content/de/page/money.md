@@ -28,7 +28,7 @@ Seit vielen Jahren beschäftige ich mich intensiv mit den Themen **private Alter
 
 - Wie? - Ich brauche Freistellungsaufträge für all meine Finanzanlage-Produkte, um meine Freigrenze für die Kapitalertragssteuer auszuschöpfen? 
 - Wie? - Die allermeisten aktiv-gemanagten Fonds schlagen ihren zugrundeliegenden Index nicht? Eine große Mehrheit schlägt sogar nicht mal die Performance von Schimpansen?[^1] 
-- Wie? - Klassische kapitalbildende Lebensversicherungen rendtieren sich meistens nicht, da ihre Performance nach Abzügen der Kosten meistens nicht einmal die Inflation ausgleichen?[^2]
+- Wie? - Klassische kapitalbildende Lebensversicherungen rentieren sich meistens nicht, da ihre Performance nach Abzügen der Kosten meistens nicht einmal die Inflation ausgleichen?[^2]
 <br> 
 
 Zu wissen, dass man nichts weiß ist zwar häufig der erste Schritt in die richtige Richung - verursacht aber auch Unsicherheit. Denn viele Menschen stellen sich Fragen, wie:  
