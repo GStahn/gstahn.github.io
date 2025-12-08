@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Gerrit Stahn</title>
-    <link>http://192.168.178.65:1313/de/post/reviews/</link>
+    <link>http://localhost:1313/de/post/reviews/</link>
     <description>Recent content on Dr. Gerrit Stahn</description>
     <generator>Hugo</generator>
     <language>de</language>
     <managingEditor>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</managingEditor>
     <webMaster>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</webMaster>
     <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://192.168.178.65:1313/de/post/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/post/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: Money Magic</title>
-      <link>http://192.168.178.65:1313/de/post/reviews/2025-11-25_moneymagic/</link>
+      <link>http://localhost:1313/de/post/reviews/2025-11-25_moneymagic/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
-      <guid>http://192.168.178.65:1313/de/post/reviews/2025-11-25_moneymagic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://192.168.178.65:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Buch Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;„Ich fragte einmal einen ganzen Raum voller Ökonominnen und Ökonomen – die sich alle versammelt hatten, um über private Haushaltsfinanzen zu diskutieren – spontan nach der Frage der Konsumglättung für eine hypothetische vierzigjährige Person. Ich gab ihnen die relevanten Informationen und beobachtete ihre Gesichter. Sie waren nicht glücklich. Sie wussten, dass sie gleich eine sehr falsche Antwort liefern würden. Genau in diesem Moment schien ihnen klarzuwerden, dass selbst finanziell gebildete Menschen wie sie keine angemessenen finanziellen Entscheidungen allein durch Introspektion treffen können.“ (S. 6, übersetzt)&lt;/p&gt;</description>
+      <guid>http://localhost:1313/de/post/reviews/2025-11-25_moneymagic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Buch Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;„Ich fragte einmal einen ganzen Raum voller Ökonominnen und Ökonomen – die sich alle versammelt hatten, um über private Haushaltsfinanzen zu diskutieren – spontan nach der Frage der Konsumglättung für eine hypothetische vierzigjährige Person. Ich gab ihnen die relevanten Informationen und beobachtete ihre Gesichter. Sie waren nicht glücklich. Sie wussten, dass sie gleich eine sehr falsche Antwort liefern würden. Genau in diesem Moment schien ihnen klarzuwerden, dass selbst finanziell gebildete Menschen wie sie keine angemessenen finanziellen Entscheidungen allein durch Introspektion treffen können.“ (S. 6, übersetzt)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

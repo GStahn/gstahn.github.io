@@ -2,174 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.178.65:1313/page/money/</loc>
+    <loc>http://localhost:1313/page/money/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/page/money/"
+                href="http://localhost:1313/de/page/money/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/page/money/"
+                href="http://localhost:1313/page/money/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/page/"
+                href="http://localhost:1313/de/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/page/"
+                href="http://localhost:1313/page/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/post/"
+                href="http://localhost:1313/de/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/post/"
+                href="http://localhost:1313/post/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/post/memes/2025-11-28_tom_notcoop/</loc>
+    <loc>http://localhost:1313/post/memes/2025-11-28_tom_notcoop/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.65:1313/post/memes/</loc>
+    <loc>http://localhost:1313/post/memes/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/post/memes/"
+                href="http://localhost:1313/de/post/memes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/post/memes/"
+                href="http://localhost:1313/post/memes/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/post/memes/2025-11-28_bernie_powerball/</loc>
+    <loc>http://localhost:1313/post/memes/2025-11-28_bernie_powerball/</loc>
     <lastmod>2025-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.178.65:1313/post/reviews/2025-11-25_moneymagic/</loc>
+    <loc>http://localhost:1313/post/reviews/2025-11-25_moneymagic/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/post/reviews/2025-11-25_moneymagic/"
+                href="http://localhost:1313/de/post/reviews/2025-11-25_moneymagic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/post/reviews/2025-11-25_moneymagic/"
+                href="http://localhost:1313/post/reviews/2025-11-25_moneymagic/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/post/reviews/</loc>
+    <loc>http://localhost:1313/post/reviews/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/post/reviews/"
+                href="http://localhost:1313/de/post/reviews/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/post/reviews/"
+                href="http://localhost:1313/post/reviews/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/404.html</loc>
+    <loc>http://localhost:1313/404.html</loc>
     <lastmod>2023-11-06T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/404.html"
+                href="http://localhost:1313/de/404.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/404.html"
+                href="http://localhost:1313/404.html"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/page/about/"
+                href="http://localhost:1313/de/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/page/about/"
+                href="http://localhost:1313/page/about/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/page/contact/</loc>
+    <loc>http://localhost:1313/page/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/page/contact/"
+                href="http://localhost:1313/de/page/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/page/contact/"
+                href="http://localhost:1313/page/contact/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/page/cv/</loc>
+    <loc>http://localhost:1313/page/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/page/cv/"
+                href="http://localhost:1313/de/page/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/page/cv/"
+                href="http://localhost:1313/page/cv/"
                 />
   </url><url>
-    <loc>http://192.168.178.65:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://192.168.178.65:1313/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.178.65:1313/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

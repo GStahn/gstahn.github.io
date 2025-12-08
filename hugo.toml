@@ -1,4 +1,4 @@
-baseurl = "gstahn.de"
+baseurl = "https://gstahn.de"
 DefaultContentLanguage = "en"
 title = 'Dr. Gerrit Stahn'
 # Using theme as git submodule
@@ -44,7 +44,7 @@ disclaimerText = "The opinions expressed herein are my own personal opinions and
 
 [Params.author]
     name = "Gerrit Stahn"
-    website = "https://gstahn.github.io"
+    website = "https://gstahn.de"
     github = "GStahn"
     email = "gerrit.stahn93.gs4@gmail.com"
     linkedin = "gerrit-stahn-7951b4313/"
