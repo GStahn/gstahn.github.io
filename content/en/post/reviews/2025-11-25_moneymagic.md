@@ -1,6 +1,6 @@
 ---
 title: "Review: Money Magic"
-subtitle: "von Laurence J. Kotlikoff"
+subtitle: "by Laurence J. Kotlikoff"
 permalink: /reviews/
 params:
   lang: en
@@ -10,7 +10,7 @@ date: 2025-11-25
 
 ![Cover Book Money Magic](img/moneymagic.jpg "Title")
 
-> "I once asked a roomful of economists—all of whom were gathered to discuss household personal finance—to answer, on the fly, the consumption-smoothing question for a hypothetical forty-year-old. I gave them the pertinent information and watched their faces. They weren't happy. They knew they were about to produce a very wrong answer. Right then and there, they seemed to realize that even financially literate people like themselves couldn't make proper financial decisions via introspection." (p. 6)
+> "I once asked a roomful of economists — all of whom were gathered to discuss household personal finance — to answer, on the fly, the consumption-smoothing question for a hypothetical forty-year-old. I gave them the pertinent information and watched their faces. They weren't happy. They knew they were about to produce a very wrong answer. Right then and there, they seemed to realize that even financially literate people like themselves couldn't make proper financial decisions via introspection." (p. 6)
 
 # Introduction
 

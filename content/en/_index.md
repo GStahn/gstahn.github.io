@@ -18,4 +18,4 @@ Welcome to my webpage. This page will help you get to know me better:
 
 ---
 
-Feel free to scroll through my site. If you encounter anything of interest or any oopsie-daisies — feel free to contact me. 
+Feel free to scroll through my site. If you encounter anything of interest or any oopsie-daisies, feel free to contact me. 

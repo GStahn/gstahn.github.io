@@ -5,7 +5,3 @@ params:
   lang: de
 permalink: /posts/reviews/
 ---
-
-## Bleib gespannt - diese Seite befindet sich *im Aufbau*
-
----

@@ -7,7 +7,7 @@
 ## Author: Gerrit Stahn
 ##
 ## Date Created: 2025-11-24
-## Last Update: 2025-11-25
+## Last Update: 2025-12-08
 ##
 ## Copyright (c) Gerrit Stahn, 2025
 ## Email: gerrit.stahn@wiwi.uni-halle.de
@@ -16,6 +16,8 @@
 ## -----------------------------------------------------------------------------
 ## Start
 ## -----------------------------------------------------------------------------
+
+rm(list=ls())
 
 ### Install packages (uncomment as required) ###
 # install.packages("tidyverse")
@@ -96,7 +98,7 @@ p <- ggplot(df) +
     alpha = 0.3,
     linetype = "dashed"
   ) +
-  scale_x_continuous(limits = c(2025, 2075), breaks = seq(2025, 2075, by = 5))+ 
+  scale_x_continuous(limits = c(2025, 2075), breaks = seq(2025, 2075, by = 10), expand=c(0.01,0.5))+ 
   scale_linetype_manual(values=c(1,4,3)) +  
   theme_minimal(base_size = 14) +
   theme(
@@ -111,21 +113,11 @@ p <- ggplot(df) +
 p
 
 ### Save plot as PNG ###
-ggsave("money_magic_plot.png", p, width = 10, height = 6, dpi = 300)
+ggsave("money_magic_plot.png", p, width = 10, height = 6, dpi = 300, bg="white")
 
 # -----------------------------
 # Second Graph
 # -----------------------------
-
-# 4) New: Not so fortunate (AR(1))
-trend <- seq(0, 10000, length.out = n)
-nfp_up <- numeric(n)
-nfp_up[1] <- 50000
-for (i in 2:n) {
-  nfp_up[i] <- 1.1*trend[i] + 1000 +
-    phi * (fp_up[i-1] - (trend[i-1] + 1000)) +
-    rnorm(1, 0, 2500)
-}
 
 # 5) New: Fortunate
 trend <- seq(0, 45000, length.out = n)
@@ -134,6 +126,16 @@ fp_up[1] <- 50000
 for (i in 2:n) {
   fp_up[i] <- 1.4*trend[i] + 50000 +
     phi * (fp_up[i-1] - (trend[i-1] + 50000)) +
+    rnorm(1, 0, 2500)
+}
+
+# 4) New: Not so fortunate (AR(1))
+trend <- seq(0, 10000, length.out = n)
+nfp_up <- numeric(n)
+nfp_up[1] <- 50000
+for (i in 2:n) {
+  nfp_up[i] <- 1.1*trend[i] + 1000 +
+    phi * (fp_up[i-1] - (trend[i-1] + 1000)) +
     rnorm(1, 0, 2500)
 }
 
@@ -192,7 +194,7 @@ p2 <- ggplot(df) +
     alpha = 0.3,
     linetype = "dashed"
   )+
-  scale_x_continuous(limits = c(2025, 2075), breaks = seq(2025, 2075, by = 5))+ 
+  scale_x_continuous(limits = c(2025, 2075), breaks = seq(2025, 2075, by = 10), expand=c(0.01,0.5))+ 
   scale_linetype_manual(values=c(1,4,3)) +  
   theme_minimal(base_size = 14) +
   theme(
@@ -214,5 +216,5 @@ p2 <- ggplot(df) +
 p2
 
 ### Save plot as PNG ###
-ggsave("money_magic_plot2.png", p2, width = 10, height = 6, dpi = 300)
+ggsave("money_magic_plot2.png", p2, width = 10, height = 6, dpi = 300, bg="white")
 
