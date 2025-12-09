@@ -30,6 +30,7 @@ unsafe= true
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
+  imprint = true
   comments = true
   readingTime = true
   wordCount = true
@@ -38,12 +39,12 @@ unsafe= true
   delayDisqus = true
   showRelatedPosts = true
 #  cusdisID = "XXX" # Get your App id from cusdis.com
-#  hideAuthor = true
+   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way. | Die hierin geäußerten Meinungen sind meine persönlichen Meinungen und geben in keiner Weise die Ansichten meines Arbeitgebers wieder."
 
 [Params.author]
-    name = "Gerrit Stahn"
+    name = "Imprint"
     website = "https://gstahn.de"
     github = "GStahn"
     email = "gerrit.stahn93.gs4@gmail.com"

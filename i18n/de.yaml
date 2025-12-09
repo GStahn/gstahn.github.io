@@ -25,6 +25,8 @@
   translation: "Minuten"
 - id: words
   translation: "Wörter"
+- id: imprint
+  translation: "Impressum"
 
 
 # 404 page

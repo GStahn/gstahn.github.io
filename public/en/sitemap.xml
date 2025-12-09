@@ -99,6 +99,19 @@
                 href="http://localhost:1313/post/reviews/"
                 />
   </url><url>
+    <loc>http://localhost:1313/page/imprint/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/page/imprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/page/imprint/"
+                />
+  </url><url>
     <loc>http://localhost:1313/404.html</loc>
     <lastmod>2023-11-06T00:00:00+08:00</lastmod>
     <xhtml:link
