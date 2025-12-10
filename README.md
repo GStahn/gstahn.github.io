@@ -30,17 +30,13 @@ This repository contains:
 To run the site locally:
 
 ```bash
-{
 git clone https://github.com/GStahn/gstahn.github.io
 cd gstahn.github.io
 hugo server -D
-}
 ```
 
 The site will then be available at: 
 
 ```bash
-{
 http://localhost:1313
-}
 ```
