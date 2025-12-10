@@ -4,7 +4,6 @@ date: 2025-01-01
 permalink: /imprint/
 params:
   lang: de
-page_id: imprint
 ---
 
 ## Angaben gemäß § 5 TMG
@@ -39,4 +38,4 @@ Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 ---
 
-*Stand: {{ .Date.Format "2006-01-02" }}*
+*Zuletzt aktualisiert: 10.12.2025*

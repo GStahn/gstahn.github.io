@@ -4,7 +4,6 @@ date: 2025-01-01
 permalink: /imprint/
 params:
   lang: en
-page_id: imprint
 ---
 
 ## Information according to § 5 TMG (German Telemedia Act)
@@ -39,4 +38,4 @@ All content and works created by the website operator are subject to German copy
 
 ---
 
-*Last updated: {{ .Date.Format "2006-01-02" }}*
+*Latest adjustment: 2025-12-10*

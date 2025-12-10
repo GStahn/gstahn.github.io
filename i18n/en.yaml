@@ -25,8 +25,9 @@
   translation: "minutes"
 - id: words
   translation: "words"
+# Adjusted by Gerrit
 - id: imprint
-  translation: "imprint"
+  translation: "Imprint"
 
 
 # 404 page

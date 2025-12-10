@@ -25,6 +25,7 @@
   translation: "Minuten"
 - id: words
   translation: "Wörter"
+# Adjusted by Gerrit
 - id: imprint
   translation: "Impressum"
 
