@@ -26,7 +26,7 @@ Email: gerrit.stahn93.gs4@gmail.com
 ## Haftungsausschluss
 
 ### Haftung für Inhalte  
-Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.
+Die hierin geäußerten Meinungen sind meine persönlichen Meinungen und geben in keiner Weise die Ansichten meines Arbeitgebers wieder. Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann jedoch keine Gewähr übernommen werden.
 
 ### Haftung für Links  
 Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte kein Einfluss besteht. Für diese Inhalte wird daher keine Gewähr übernommen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich.

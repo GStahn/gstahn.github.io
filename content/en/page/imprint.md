@@ -26,7 +26,7 @@ Email: gerrit.stahn93.gs4@gmail.com
 ## Disclaimer
 
 ### Liability for Content  
-The contents of this website were created with great care. However, no guarantee can be given for accuracy, completeness, or timeliness.
+The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way. The contents of this website were created with great care. However, no guarantee can be given for accuracy, completeness, or timeliness.
 
 ### Liability for Links  
 This website contains links to external third-party websites. We have no influence on their content; therefore, no liability is assumed for such external content. The respective provider or operator is responsible for the content of linked sites.
