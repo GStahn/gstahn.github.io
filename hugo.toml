@@ -58,9 +58,13 @@ unsafe= true
     weight = 10
      [languages.en.menus]
         [[languages.en.menus.main]]
+            name = 'Reviews'
+            url = "post/reviews/"
+            weight = 1
+        [[languages.en.menus.main]]
             identifier = "about"
             name = 'About'
-            weight = 1
+            weight = 5
         [[languages.en.menus.main]]
             parent = "about"
             name = "Short Profile"
@@ -74,25 +78,26 @@ unsafe= true
         [[languages.en.menus.main]]
             name = "Contact"
             url = "page/contact/"
-            weight = 2
+            weight = 6
         [[languages.en.menus.main]]
             name = "Money Talks"
-            identifier = "money"
-            weight = 3
-        [[languages.en.menus.main]]
-            name = "Let's talk!"
-            parent = "money"
+#            identifier = "money"
             url = "page/money/"
-            weight = 1
-        [[languages.en.menus.main]]
-            name = "My Reviews"
-            parent = "money"
-            url = "post/reviews/"
             weight = 2
+#        [[languages.en.menus.main]]
+#            name = "Let's talk!"
+#            parent = "money"
+#            url = "page/money/"
+#            weight = 1
+#        [[languages.en.menus.main]]
+#            name = "Money Reviews"
+#            parent = "money"
+#            url = "post/reviews/money"
+#            weight = 2
         [[languages.en.menus.main]]
             identifier = "projects"
             name = "GitHub Projects"
-            weight = 4
+            weight = 3
         [[languages.en.menus.main]]
             parent = "projects"
             name = "Ranking German Districts"
@@ -109,19 +114,28 @@ unsafe= true
             url = "https://github.com/GStahn/driving_time_ischgl"
             weight = 3
         [[languages.en.menus.main]]
+            parent = "projects"
+            name = "Repository for this Website"
+            url = "https://github.com/GStahn/gstahn.github.io"
+            weight = 4
+        [[languages.en.menus.main]]
             name = "Memes"
             url = "post/memes/"
-            weight = 5
+            weight = 4
   [languages.de]
     contentDir = "content/de" # German
     languageName = 'DE'
     weight = 2
        [languages.de.menus]
+       [[languages.de.menus.main]]
+            name = 'Reviews'
+            url = "post/reviews/"
+            weight = 1
         [[languages.de.menus.main]]
             identifier = "über"
             name = 'Über mich'
             pageRef = '/products'
-            weight = 1
+            weight = 5
         [[languages.de.menus.main]]
             parent = "über"
             name = "Zur Person"
@@ -135,25 +149,26 @@ unsafe= true
         [[languages.de.menus.main]]
             name = "Kontakt"
             url = "page/contact/"
-            weight = 2
+            weight = 6
         [[languages.de.menus.main]]
             name = "Geld-Gerede"
-            identifier = "geld"
-            weight = 3
-        [[languages.de.menus.main]]
-            name = "Lass uns reden!"
-            parent = "geld"
             url = "page/money/"
-            weight = 1
-        [[languages.de.menus.main]]
-            name = "Meine Reviews!"
-            parent = "geld"
-            url = "post/reviews/"
+#           identifier = "geld"
             weight = 2
+#        [[languages.de.menus.main]]
+#            name = "Lass uns reden!"
+#            parent = "geld"
+#            url = "page/money/"
+#            weight = 1
+#        [[languages.de.menus.main]]
+#            name = "Geld Reviews!"
+#            parent = "geld"
+#            url = "post/reviews/money/"
+#            weight = 2
         [[languages.de.menus.main]]
             identifier = "projekte"
             name = "GitHub Projekte"
-            weight = 4
+            weight = 3
         [[languages.de.menus.main]]
             parent = "projekte"
             name = "Ranking deutscher Kreise"
@@ -170,9 +185,14 @@ unsafe= true
             url = "https://github.com/GStahn/driving_time_ischgl"
             weight = 3
         [[languages.de.menus.main]]
+            parent = "projekte"
+            name = "Repository für diese Website"
+            url = "https://github.com/GStahn/gstahn.github.io"
+            weight = 4
+        [[languages.de.menus.main]]
             name = "Memes"
             url = "post/memes/"
-            weight = 5
+            weight = 4
 
 [services]
   [services.googleAnalytics]
