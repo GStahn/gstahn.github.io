@@ -76,9 +76,10 @@ unsafe= true
             url = "page/cv/"
             weight = 2
         [[languages.en.menus.main]]
+            parent = "about"
             name = "Contact"
             url = "page/contact/"
-            weight = 6
+            weight = 3
         [[languages.en.menus.main]]
             name = "Money Talks"
 #            identifier = "money"
@@ -147,9 +148,10 @@ unsafe= true
             url = "page/cv/"
             weight = 2
         [[languages.de.menus.main]]
+            parent = "über"
             name = "Kontakt"
             url = "page/contact/"
-            weight = 6
+            weight = 3
         [[languages.de.menus.main]]
             name = "Geld-Gerede"
             url = "page/money/"
