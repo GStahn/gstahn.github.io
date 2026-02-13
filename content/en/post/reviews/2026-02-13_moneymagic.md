@@ -5,7 +5,7 @@ permalink: /reviews/
 params:
   lang: en
 page_id: reviews
-date: 2025-11-25
+date: 2026-02-13
 ---
 
 ![Cover Book Money Magic](img/moneymagic.jpg "Title")

@@ -1,7 +1,7 @@
 ---
 title: 'Review: Money Magic'
 subtitle: von Laurence J. Kotlikoff
-date: "2025-11-25"
+date: "2026-02-13"
 page_id: reviews
 permalink: /reviews/
 params:
