@@ -15,6 +15,9 @@ keywords:
   - programming projects contact
   - reach out Gerrit
   - GitHub portfolio Gerrit Stahn
+  - Gerrit Stahn
+  - Gerrit 
+  - Stahn
 ---
 
 The easiest way to contact me is via e-mail: [gerrit.stahn93.gs4@gmail.com](gerrit.stahn93.gs4@gmail.com)

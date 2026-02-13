@@ -6,6 +6,23 @@ params:
   lang: en
 page_id: reviews
 date: 2026-02-13
+description: "A review of Laurence J. Kotlikoff’s *Money Magic*, critically examining the Merton-Samuelson portfolio theory, the concept of the Living Standard Cone, and the provocative claim that retirees should increase their stock exposure as they age."
+
+keywords:
+  - Money Magic
+  - Laurence J. Kotlikoff
+  - Book Review
+  - Financial Planning
+  - Living Standard Cone
+  - Merton-Samuelson Theory
+  - Portfolio Theory
+  - Retirement Planning
+  - Equity Allocation in Retirement
+  - Risk and Uncertainty
+  - Life-Cycle Model
+  - Gerrit Stahn
+  - Gerrit 
+  - Stahn
 ---
 
 ![Cover Book Money Magic](img/moneymagic.jpg "Title")

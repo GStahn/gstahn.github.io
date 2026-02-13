@@ -16,7 +16,10 @@ keywords:
   - Datenenthusiast
   - Finanzbildung kostenlos
   - Hobbyliste Musik Sport
-  - Gerrit Stahn Volkswirtschaft
+  - Gerrit Stahn 
+  - Volkswirtschaft
+  - Gerrit 
+  - Stahn
 ---
 
 # Hallo, ich bin Gerrit 👋

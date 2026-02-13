@@ -15,6 +15,9 @@ keywords:
   - Programmierprojekte Kontakt
   - Gerrit Stahn Portfolio
   - GitHub Projekte Gerrit
+  - Gerrit Stahn 
+  - Gerrit 
+  - Stahn
 ---
 
 Am einfachsten erreichst du mich per Mail: [gerrit.stahn93.gs4@gmail.com](gerrit.stahn93.gs4@gmail.com)

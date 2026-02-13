@@ -17,6 +17,9 @@ keywords:
   - free financial education
   - interdisciplinary hobbies
   - Gerrit Stahn economics
+  - Gerrit Stahn
+  - Gerrit 
+  - Stahn
 ---
 
 # Hi, I'm Gerrit 👋

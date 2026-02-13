@@ -17,6 +17,9 @@ keywords:
   - Geldanlage Grundlagen
   - Finanzbildung kostenlos
   - Money Talks Projekt
+  - Gerrit Stahn
+  - Gerrit 
+  - Stahn
 ---
 
 # **Ganz entspannt über Finanzen sprechen**

@@ -6,6 +6,24 @@ page_id: reviews
 permalink: /reviews/
 params:
   lang: de
+description: "Rezension von Laurence J. Kotlikoffs „Money Magic“ mit kritischer Auseinandersetzung der Merton-Samuelson-Portfoliotheorie, dem Konzept des Lebensstandard-Kegels und der provokanten These, dass Rentner mit zunehmendem Alter stärker in Aktien investieren sollten."
+
+keywords:
+  - Money Magic
+  - Laurence J. Kotlikoff
+  - Buchrezension
+  - Finanzplanung
+  - Lebensstandard-Kegel
+  - Living Standard Cone
+  - Merton-Samuelson-Theorie
+  - Portfoliotheorie
+  - Altersvorsorge
+  - Aktienquote im Alter
+  - Risiko und Unsicherheit
+  - Lebenszyklusmodell
+  - Gerrit Stahn 
+  - Gerrit 
+  - Stahn
 ---
 
 ![Cover Buch Money Magic](img/moneymagic.jpg "Title")

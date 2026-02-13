@@ -17,6 +17,9 @@ keywords:
   - investing basics
   - free financial education
   - Money Talks project
+  - Gerrit Stahn
+  - Gerrit 
+  - Stahn
 ---
 
 # **Talking About Finances – Stress-Free**
