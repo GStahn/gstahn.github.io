@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drafts on Dr. Gerrit Stahn</title>
-    <link>//localhost:1313/drafts/</link>
+    <link>http://localhost:1313/drafts/</link>
     <description>Recent content in Drafts on Dr. Gerrit Stahn</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</managingEditor>
-    <webMaster>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</webMaster>
-    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>gerrit.stahn93.gs4@gmail.com (Imprint)</managingEditor>
+    <webMaster>gerrit.stahn93.gs4@gmail.com (Imprint)</webMaster>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/drafts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Review: Money Magic</title>
-      <link>//localhost:1313/drafts/2025-11-18-rev-money-magic/</link>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Gerrit Stahn)</author>
-      <guid>//localhost:1313/drafts/2025-11-18-rev-money-magic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/img/moneymagic.jpg&#34; alt=&#34;alt text&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Test&amp;rdquo; (S. )&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;kurze-inhaltswiedergabe&#34;&gt;Kurze Inhaltswiedergabe&lt;/h2&gt;&#xA;&lt;h2 id=&#34;meine-gedanken-zum-buch&#34;&gt;Meine Gedanken zum Buch&lt;/h2&gt;&#xA;&lt;h2 id=&#34;meine-take-aways&#34;&gt;Meine Take-Aways&lt;/h2&gt;&#xA;&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;</description>
+      <title>Review: Hedge Funds and the Collapse of Long-Term Capital Management</title>
+      <link>http://localhost:1313/drafts/2026-01-22_collapse_of_ltcm/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/drafts/2026-01-22_collapse_of_ltcm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Book Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I once asked a roomful of economists — all of whom were gathered to discuss household personal finance — to answer, on the fly, the consumption-smoothing question for a hypothetical forty-year-old. I gave them the pertinent information and watched their faces. They weren&amp;rsquo;t happy. They knew they were about to produce a very wrong answer. Right then and there, they seemed to realize that even financially literate people like themselves couldn&amp;rsquo;t make proper financial decisions via introspection.&amp;rdquo; (p. 6)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

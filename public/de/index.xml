@@ -8,8 +8,22 @@
     <language>de</language>
     <managingEditor>gerrit.stahn93.gs4@gmail.com (Imprint)</managingEditor>
     <webMaster>gerrit.stahn93.gs4@gmail.com (Imprint)</webMaster>
-    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Fast) zu schön, um wahr zu sein: Der Cost-Average-Effect</title>
+      <link>http://localhost:1313/de/post/memes/2026-02-13_costaverage_padme/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/de/post/memes/2026-02-13_costaverage_padme/</guid>
+      <description>&lt;h2 id=&#34;anakin---padme---cost-average-effect&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/memes/costaverage_padme.jpg&#34; alt=&#34;Anakin - Padme - Cost-Average-Effect&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontext:&lt;/strong&gt; Die Idee für dieses Meme kam mir im Zuge einer Bewerbung bei einem Unternehmen, welches im Finanzmarkt aktiv ist. Ich erinnerte mich an die Zeit, als ich als Student bereits auf der Suche nach dem großen Geld war und dachte, dies würde ich bei einem Finanzvertrieb erhalten.&lt;/p&gt;&#xA;&lt;p&gt;Ein Verkaufsargument damals war der sogenannte Cost-Average-Effect (zu Deutsch: Durchschnittskosteneffekt, auch dollar-averaging effect genannt im Englischen). Dieses Konzept beschreibt regelmäßige Investitionen fester Beträge in (volatile) Wertpapiere, bei dem Kursschwankungen dazu führen, dass im Durchschnitt Anteile zu einem günstigeren Preis erworben werden. Bei hohen Kursen werden weniger, bei niedrigen Kursen mehr Anteile gekauft, sodass je Anteil das harmonische statt des arithmetischen Mittels der Preise gezahlt wird. Oder anders formuliert: Kursverluste wiegen weniger schwer, da man durch den regelmäßigen Kauf von Anteilen mehr Anteile in schlechten Phasen erwirbt und somit an zukünftigen Kursgewinnen stärker partizipiert. Es senkt also das Verlustrisiko solcher Anlagen – so zumindest die Theorie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review: Money Magic</title>
+      <link>http://localhost:1313/de/post/reviews/2026-02-13_moneymagic/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/de/post/reviews/2026-02-13_moneymagic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Buch Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;„Ich fragte einmal einen ganzen Raum voller Ökonominnen und Ökonomen – die sich alle versammelt hatten, um über private Haushaltsfinanzen zu diskutieren – spontan nach der Frage der Konsumglättung für eine hypothetische vierzigjährige Person. Ich gab ihnen die relevanten Informationen und beobachtete ihre Gesichter. Sie waren nicht glücklich. Sie wussten, dass sie gleich eine sehr falsche Antwort liefern würden. Genau in diesem Moment schien ihnen klarzuwerden, dass selbst finanziell gebildete Menschen wie sie keine angemessenen finanziellen Entscheidungen allein durch Introspektion treffen können.“ (S. 6, übersetzt)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Where I&#39;d put my trophy: Frust von Wiwi-Doktoranden</title>
       <link>http://localhost:1313/de/post/memes/2025-12-17_trophy_publish/</link>
@@ -51,13 +65,6 @@
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
       <guid>http://localhost:1313/de/post/memes/2025-11-28_bernie_powerball/</guid>
       <description>&lt;h2 id=&#34;bernie-lotto&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/memes/bernie_lotto.jpg&#34; alt=&#34;Bernie Lotto&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontext:&lt;/strong&gt; Dieses Meme verwende ich als Aufhänger für eine Bachelorübung Mikroökonomik zum Thema &lt;em&gt;Entscheidungen unter Unsicherheit und Risiko&lt;/em&gt;. In dieser erkläre ich die Grundlagen der Erwartungsnutzentheorie. Die Studenten sollen darin u.a. den fairen Preis für einen deutschen Lotto-Schein (6aus49) berechnen.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review: Money Magic</title>
-      <link>http://localhost:1313/de/post/reviews/2025-11-25_moneymagic/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
-      <guid>http://localhost:1313/de/post/reviews/2025-11-25_moneymagic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Buch Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;„Ich fragte einmal einen ganzen Raum voller Ökonominnen und Ökonomen – die sich alle versammelt hatten, um über private Haushaltsfinanzen zu diskutieren – spontan nach der Frage der Konsumglättung für eine hypothetische vierzigjährige Person. Ich gab ihnen die relevanten Informationen und beobachtete ihre Gesichter. Sie waren nicht glücklich. Sie wussten, dass sie gleich eine sehr falsche Antwort liefern würden. Genau in diesem Moment schien ihnen klarzuwerden, dass selbst finanziell gebildete Menschen wie sie keine angemessenen finanziellen Entscheidungen allein durch Introspektion treffen können.“ (S. 6, übersetzt)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Impressum</title>

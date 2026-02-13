@@ -2,6 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/post/reviews/2026-02-13_moneymagic/</loc>
+    <lastmod>2026-02-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/reviews/2026-02-13_moneymagic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/post/reviews/2026-02-13_moneymagic/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/drafts/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/drafts/2026-01-22_collapse_of_ltcm/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/memes/2026-02-13_costaverage_padme/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/memes/2026-02-13_costaverage_padme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/post/memes/2026-02-13_costaverage_padme/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/post/memes/2025-12-17_trophy_publish/</loc>
+    <lastmod>2025-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/memes/2025-12-17_trophy_publish/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/post/memes/2025-12-17_trophy_publish/"
+                />
+  </url><url>
     <loc>http://localhost:1313/post/memes/2025-12-12_gru_naive/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,19 +71,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/post/memes/2025-12-12_gru_naive/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/post/"
                 />
   </url><url>
     <loc>http://localhost:1313/post/memes/2025-12-10_backinmydays/</loc>
@@ -104,19 +149,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/post/memes/2025-11-28_bernie_powerball/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/post/reviews/2025-11-25_moneymagic/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/reviews/2025-11-25_moneymagic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/post/reviews/2025-11-25_moneymagic/"
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>

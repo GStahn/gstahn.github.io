@@ -8,8 +8,29 @@
     <language>en</language>
     <managingEditor>gerrit.stahn93.gs4@gmail.com (Imprint)</managingEditor>
     <webMaster>gerrit.stahn93.gs4@gmail.com (Imprint)</webMaster>
-    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Review: Money Magic</title>
+      <link>http://localhost:1313/post/reviews/2026-02-13_moneymagic/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/post/reviews/2026-02-13_moneymagic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Book Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I once asked a roomful of economists — all of whom were gathered to discuss household personal finance — to answer, on the fly, the consumption-smoothing question for a hypothetical forty-year-old. I gave them the pertinent information and watched their faces. They weren&amp;rsquo;t happy. They knew they were about to produce a very wrong answer. Right then and there, they seemed to realize that even financially literate people like themselves couldn&amp;rsquo;t make proper financial decisions via introspection.&amp;rdquo; (p. 6)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Review: Hedge Funds and the Collapse of Long-Term Capital Management</title>
+      <link>http://localhost:1313/drafts/2026-01-22_collapse_of_ltcm/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/drafts/2026-01-22_collapse_of_ltcm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Book Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I once asked a roomful of economists — all of whom were gathered to discuss household personal finance — to answer, on the fly, the consumption-smoothing question for a hypothetical forty-year-old. I gave them the pertinent information and watched their faces. They weren&amp;rsquo;t happy. They knew they were about to produce a very wrong answer. Right then and there, they seemed to realize that even financially literate people like themselves couldn&amp;rsquo;t make proper financial decisions via introspection.&amp;rdquo; (p. 6)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>(Almost) Too Good to Be True: The Cost-Average Effect</title>
+      <link>http://localhost:1313/post/memes/2026-02-13_costaverage_padme/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/post/memes/2026-02-13_costaverage_padme/</guid>
+      <description>&lt;h2 id=&#34;anakin---padme---cost-average-effect&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/memes/costaverage_padme.jpg&#34; alt=&#34;Anakin - Padme - Cost-Average-Effect&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; The idea for this meme came to me during the process of applying to a company active in the financial market. I remembered the time when, as a student, I was already searching for big money and believed I would find it at a financial distribution firm.&lt;/p&gt;&#xA;&lt;p&gt;One of the sales arguments back then was the so-called Cost-Average Effect (in German: Durchschnittskosteneffekt, also referred to in English as dollar-averaging effect). This concept describes regular investments of fixed amounts into (volatile) securities, where price fluctuations lead to purchasing shares at a lower average price. When prices are high, fewer shares are bought; when prices are low, more shares are purchased, so that per share the harmonic mean rather than the arithmetic mean of prices is paid. Or put differently: price losses weigh less heavily because through regular purchases of shares, more shares are acquired during bad periods, allowing for stronger participation in future price gains. It therefore reduces the risk of loss of such investments - at least that is the theory.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Where I&#39;d put my trophy: Frustration of Economics PhD Students</title>
       <link>http://localhost:1313/post/memes/2025-12-17_trophy_publish/</link>
@@ -51,13 +72,6 @@
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
       <guid>http://localhost:1313/post/memes/2025-11-28_bernie_powerball/</guid>
       <description>&lt;h2 id=&#34;bernie-lotto&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/memes/bernie_powerbal.jpg&#34; alt=&#34;Bernie Lotto&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; I use this meme as an engaging opener for a bachelor-level microeconomics exercise on &lt;em&gt;decision-making under uncertainty and risk&lt;/em&gt;. In that session, I explain the fundamentals of expected utility theory. Among other things, the students have to calculate the fair price of a German lottery ticket (6aus49). Since the German &lt;em&gt;Lotto&lt;/em&gt; is comparable to &lt;em&gt;Powerball&lt;/em&gt;, I&amp;rsquo;ve adjusted the meme slightly for my U.S. audience. &amp;#x1f609;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Review: Money Magic</title>
-      <link>http://localhost:1313/post/reviews/2025-11-25_moneymagic/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
-      <guid>http://localhost:1313/post/reviews/2025-11-25_moneymagic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/moneymagic.jpg&#34; alt=&#34;Cover Book Money Magic&#34; title=&#34;Title&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I once asked a roomful of economists — all of whom were gathered to discuss household personal finance — to answer, on the fly, the consumption-smoothing question for a hypothetical forty-year-old. I gave them the pertinent information and watched their faces. They weren&amp;rsquo;t happy. They knew they were about to produce a very wrong answer. Right then and there, they seemed to realize that even financially literate people like themselves couldn&amp;rsquo;t make proper financial decisions via introspection.&amp;rdquo; (p. 6)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Imprint</title>
