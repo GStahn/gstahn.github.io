@@ -1,5 +1,5 @@
 ---
-title: "Rezension: Hedgefonds und der Zusammenbruch von Long-Term Capital Management"
+title: "Rezension: Hedge funds and the collapse of long-term capital management"
 subtitle: von Franklin R. Edwards
 date: "2026-02-19"
 params:
@@ -32,7 +32,7 @@ keywords:
 
 </p>
 
-![Wachmals image LTCM](img/Besorgte_Männer_vor_fallendem_Diagramm.png)
+![Wachsmal Bild LTCM](img/Besorgte_Maenner_vor_fallendem_Diagramm.png)
 
 > „Quelle: Edwards, F. R. (1999). Hedge funds and the collapse of long-term capital management. Journal of Economic Perspectives, 13(2), 189–210.“
 

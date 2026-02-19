@@ -33,7 +33,7 @@ keywords:
 
 </p>
 
-![Wachmals image LTCM](img/Besorgte_Männer_vor_fallendem_Diagramm.png)
+![Wachmals image LTCM](img/Besorgte_Maenner_vor_fallendem_Diagramm.png)
 
 > "Source: Edwards, F. R. (1999). Hedge funds and the collapse of long-term capital management. Journal of Economic Perspectives, 13(2), 189-210."
 
