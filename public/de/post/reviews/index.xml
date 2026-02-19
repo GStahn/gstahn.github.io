@@ -8,8 +8,15 @@
     <language>de</language>
     <managingEditor>gerrit.stahn93.gs4@gmail.com (Imprint)</managingEditor>
     <webMaster>gerrit.stahn93.gs4@gmail.com (Imprint)</webMaster>
-    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/de/post/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rezension: Hedgefonds und der Zusammenbruch von Long-Term Capital Management</title>
+      <link>http://localhost:1313/de/post/reviews/2026-02-19_collapse_of_ltcm/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
+      <guid>http://localhost:1313/de/post/reviews/2026-02-19_collapse_of_ltcm/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;&#xA;&lt;p&gt;&lt;em&gt;Abbildung 1: Selbst brillante Ökonomen können Geld verzocken.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/Besorgte_M%C3%A4nner_vor_fallendem_Diagramm.png&#34; alt=&#34;Wachmals image LTCM&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;„Quelle: Edwards, F. R. (1999). Hedge funds and the collapse of long-term capital management. Journal of Economic Perspectives, 13(2), 189–210.“&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h1&gt;&#xA;&lt;p&gt;Meine Vorbereitungen für die Rezension des Buches &lt;a href=&#34;http://localhost:1313/de/post/reviews/2026-02-13_moneymagic/&#34;&gt;Money Magic von Laurence J. Kotlikoff&lt;/a&gt; führten mich in ein regelrechtes Wikipedia-Rabbit-Hole. Besonders die Zeit, in der ich versuchte, die Ideen hinter dem Merton–Samuelson-Theorem zu verstehen, brachte mich dazu, stundenlang die Wikipedia-Seiten von Robert C. Merton und Paul Samuelson zu studieren – beeindruckt von ihren enormen Beiträgen zur Volkswirtschaftslehre. Eine Episode im Leben Mertons interessierte mich jedoch besonders: seine Beteiligung am Hedgefonds Long-Term Capital Management (kurz: LTCM), dessen Zusammenbruch 1998 beinahe zu einer globalen Finanzkatastrophe geführt hätte. Neugierig geworden und mit der entsprechenden Wikipedia-Seite nicht ganz zufrieden, stieß ich glücklicherweise auf den hervorragend geschriebenen Artikel &lt;em&gt;Hedge Funds and the Collapse of Long-Term Capital Management&lt;/em&gt; von Franklin R. Edwards. Der Artikel beschreibt nicht nur anschaulich den zeitlichen Ablauf des LTCM-Zusammenbruchs, sondern erklärt auch die Funktionsweise von Hedgefonds und warum sie scheitern können. Tauchen wir also ein.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Review: Money Magic</title>
       <link>http://localhost:1313/de/post/reviews/2026-02-13_moneymagic/</link>

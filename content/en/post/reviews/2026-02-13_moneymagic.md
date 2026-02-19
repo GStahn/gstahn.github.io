@@ -63,8 +63,7 @@ The other two paths look much better. The *Better* and the *Even Better* paths s
 
 [^4]: Although these “better” paths look impressive, even the dashed path would barely make up for the loss in purchasing power - at least if the past 50 years are used as a projection for the future. Inflation strikes again!
 
-The graph also highlights several interesting points.
-1. We will not be able to spend at least the same amount every year. Sometimes our living standard falls - due to illness, unemployment, or other shocks.
+The graph also highlights several interesting points. 1. We will not be able to spend at least the same amount every year. Sometimes our living standard falls - due to illness, unemployment, or other shocks.
 
 2.  Which path we ultimately end up on is uncertain. Here I must offer some critique: In economics, *risk* and *uncertainty* are not synonymous. Decisions under risk assume that individuals know all possible outcomes *and* their probabilities. Under uncertainty, the probabilities are unknown. Although the book frequently uses the word “risk,” I believe that “uncertainty” is the intended meaning - at least that is how I read it, and likely many others do as well. Still, this distinction underscores that we never fully control our living standard.
 
@@ -113,8 +112,7 @@ Another assumption is the full fungibility of wealth and future income: the idea
 
 How realistic assumptions are does not determine a model’s usefulness - after all, maps or Google Maps also rely on simplifications (“The world is two-dimensional”). What matters is predictive accuracy. And here lies my issue with the book: Kotlikoff emphasizes that the Merton-Samuelson theory often fails to predict actual investor behavior, **concluding** that people must be poorly informed or poorly advised. This reasoning ignores a third possibility: many people's decision-making may simply be inadequately represented by the model.
 
-*So was the chapter not worth its opportunity costs after all?*
-It absolutely was. The recommendation is explicitly for *retirees* in the *modern world*. Many retirees today have acquired some financial literacy and can trade at negligible cost (assumption: no transaction costs).
+*So was the chapter not worth its opportunity costs after all?* It absolutely was. The recommendation is explicitly for *retirees* in the *modern world*. Many retirees today have acquired some financial literacy and can trade at negligible cost (assumption: no transaction costs).
 
 Regarding market efficiency, even Shiller argues that increased information availability improves efficiency - and today information is more accessible than ever (welcome to my site!). Algorithmic trading and Robo-Advisors may also stabilize markets against psychological effects (assumption: efficient markets).
 
@@ -127,13 +125,12 @@ Thus, for retirees at the beginning of their pension phase, the model’s assump
     Why then should retirees with accumulated wealth - assuming constant relative risk aversion - invest *less* in risky assets the wealthier they are, while the same theoretical foundation suggests that wealthy individuals should *take on* risks from the less wealthy?
 
     If any reader has more insights on this, I would greatly appreciate hearing from you.
-    
+
 ## Unfortunately, not everything is relevant for non-US readers.
 
 Unfortunately, the book offers slightly less value for readers outside the United States than for those within the US. The reason is that chapters 2 through 5, in particular, are very closely tailored to the American context. This is not meant as a criticism of the book itself, as questions such as *What is the best age to retire?* or *How can you save taxes in retirement?* are naturally tied to the social system of the country in which you live.
 
 In the best case, the book might even inspire one of my German readers to write a similar guide for the German market. I would buy it immediately!
-
 
 # My Take-Away
 
