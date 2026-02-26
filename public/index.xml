@@ -81,13 +81,6 @@
       <description>&lt;h2 id=&#34;information-according-to--5-tmg-german-telemedia-act&#34;&gt;Information according to § 5 TMG (German Telemedia Act)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Address&lt;/strong&gt;&lt;br&gt;&#xA;z. H. Gerrit Stahn   &lt;br&gt;&#xA;Große Steinstraße 73  &lt;br&gt;&#xA;06108 Halle (Saale) &lt;br&gt;&#xA;Germany&lt;/p&gt;&#xA;&lt;p&gt;gstahn.de&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:gerrit.stahn93.gs4@gmail.com&#34; rel=&#34;external&#34;&gt;gerrit.stahn93.gs4@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;responsible-for-the-content-according-to--55-2-rstv&#34;&gt;Responsible for the content according to § 55 (2) RStV&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gerrit Stahn&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;&#xA;&lt;h3 id=&#34;liability-for-content&#34;&gt;Liability for Content&lt;/h3&gt;&#xA;&lt;p&gt;The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way. The contents of this website were created with great care. However, no guarantee can be given for accuracy, completeness, or timeliness.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>404 Page Not Found</title>
-      <link>http://localhost:1313/404.html</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0800</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
-      <guid>http://localhost:1313/404.html</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/IMG_4082.JPG&#34; alt=&#34;Photo: Although you are on the wrong path - keep going!&#34;&gt;&lt;/p&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;&lt;h1 id=&#34;although-you-are-on-the-wrong-path--keep-going&#34;&gt;Although you are on the wrong path – KEEP GOING!&lt;/h1&gt;&#xA;&lt;p&gt;It looks like this was the result of either:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a mistyped address&lt;/li&gt;&#xA;&lt;li&gt;an out-of-date link&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;.page-content {&#xA;  display: flex;&#xA;  flex-direction: column;&#xA;  align-items: center;&#xA;  justify-content: center;&#xA;  text-align: center;&#xA;  min-height: 100vh;&#xA;  padding: 20px;&#xA;}&#xA;&#xA;.page-content img {&#xA;  max-width: 100%;&#xA;  height: auto;&#xA;  margin-bottom: 1.5rem;&#xA;}&#xA;&#xA;.page-content ul {&#xA;  list-style-position: inside;&#xA;  padding-left: 0;&#xA;  margin-top: 0.5rem;&#xA;  margin-bottom: 1.5rem;&#xA;}&#xA;&#xA;.page-content li {&#xA;  margin: 0.25rem 0;&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;p&gt;Try going back to the &lt;a href=&#34;http://localhost:1313/en/&#34;&gt;English Site&lt;/a&gt; or &lt;a href=&#34;http://localhost:1313/de/&#34;&gt;die Deutsche Seite&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title></title>
       <link>http://localhost:1313/drafts/2026-01-22_collapse_of_ltcm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
@@ -106,7 +99,7 @@
       <link>http://localhost:1313/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>gerrit.stahn93.gs4@gmail.com (Imprint)</author>
       <guid>http://localhost:1313/page/contact/</guid>
-      <description>&lt;p&gt;The easiest way to contact me is via e-mail: &lt;a href=&#34;gerrit.stahn93.gs4@gmail.com&#34;&gt;gerrit.stahn93.gs4@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Are you interested in my projects? Then check out my &lt;a href=&#34;https://github.com/GStahn&#34; rel=&#34;external&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The easiest way to contact me is via e-mail: &lt;a href=&#34;mailto:gerrit.stahn93.gs4@gmail.com&#34; rel=&#34;external&#34;&gt;gerrit.stahn93.gs4@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Are you interested in my projects? Then check out my &lt;a href=&#34;https://github.com/GStahn&#34; rel=&#34;external&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>

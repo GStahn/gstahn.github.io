@@ -1,0 +1,102 @@
+{{ define "main" }}
+  <div class="container" style="max-width: 780px; margin: 0 auto; padding: 2rem 1rem;">
+
+    <!-- Language Toggle -->
+    <p style="text-align:right; font-size:13px; margin-bottom:1rem;">
+      <a href="#" onclick="setLang('en'); return false;">EN</a> |
+      <a href="#" onclick="setLang('de'); return false;">DE</a>
+    </p>
+
+    <!-- ENGLISH -->
+    <div id="content-en">
+      <p style="letter-spacing:.08em; text-transform:uppercase; font-size:12px; color:#888; margin:0 0 .5rem;">
+        404 — Page not found
+      </p>
+
+      <h2 style="margin-top:0;">
+        Well… this page has a negative expected return for you 📉
+      </h2>
+
+      <p>
+        The page you’re looking for doesn’t exist. Either the URL was mistyped,
+        the link is outdated, or you’ve ventured outside of the 95% confidence interval of all possible webpages of this website.
+      </p>
+
+      <pre id="error-en" style="background:#fafafa; border:1px dashed #e5e5e5; border-radius:10px; padding:12px 14px; white-space:pre-wrap;">
+404 Error: PageNotFound
+Potential Cause:    Out-of-sample request
+Ptential Fix:      Re-check assumptions (and the URL)</pre>
+
+      <p>
+        <a href="/" class="btn btn-primary">Back to home</a>
+        <a href="/post/reviews/" class="btn btn-default">Read reviews</a>
+        <a href="javascript:history.back()" class="btn btn-default">Go back</a>
+      </p>
+    </div>
+
+    <!-- GERMAN -->
+    <div id="content-de" style="display:none;">
+      <p style="letter-spacing:.08em; text-transform:uppercase; font-size:12px; color:#888; margin:0 0 .5rem;">
+        404 — Seite nicht gefunden
+      </p>
+
+      <h2 style="margin-top:0;">
+        Tja ... dieses Ergebnis entspricht wohl nicht deinem Erwartungswert.
+      </h2>
+
+      <p>
+        Die Seite, die du suchst, existiert nicht. Entweder wurde die URL falsch eingegeben,
+        der Link ist veraltet oder du bist außerhalb des 95% Konfidenzintervalls aller Seiten dieser Webseite unterwegs.
+      </p>
+
+      <pre id="error-de" style="background:#fafafa; border:1px dashed #e5e5e5; border-radius:10px; padding:12px 14px; white-space:pre-wrap;">
+404 Fehler: Seite Nicht Gefunden
+Mögliche Ursache:   Anfrage außerhalb der Stichprobe
+Mögliche Lösung:    Annahmen prüfen (und die URL)</pre>
+
+      <p>
+        <a href="/de/" class="btn btn-primary">Zur Startseite</a>
+        <a href="/de/post/reviews/" class="btn btn-default">Reviews lesen</a>
+        <a href="javascript:history.back()" class="btn btn-default">Zurück</a>
+      </p>
+    </div>
+
+    <!-- Script -->
+    <script>
+      function setLang(lang) {
+        document.getElementById("content-en").style.display = (lang === "en") ? "block" : "none";
+        document.getElementById("content-de").style.display = (lang === "de") ? "block" : "none";
+      }
+
+      (function () {
+        var enMessages = [
+          "404 Error: PageNotFound\nPotential Cause:    Out-of-sample request\nPotential Fix:      Re-check assumptions (and the URL)",
+          "404 Error: MissingPage\nPotential Cause::    Idiosyncratic typo shock\nPotential Fix:      Mean-revert to homepage (/)",
+          "404 Error: NotFound\nPotential Cause:   Link liquidity dried up\nPotential Fix:     Reallocate attention to valid URLs",
+          "404 Error: Undefined\nPotential Cause:    Model specification error\nPotential Fix:      Try a simpler path"
+        ];
+
+        var deMessages = [
+          "404 Fehler: SeiteNichtGefunden\nMögliche Ursache:   Anfrage außerhalb der Stichprobe\nMögliche Lösung:    Annahmen prüfen (und die URL)",
+          "404 Fehler: SeiteVerschwunden\nMögliche Ursache:   Idiosynkratischer Tippfehler-Schock\nMögliche Lösung:    Zur Startseite (/de/) zurück mean-reverten",
+          "404 Fehler: NichtGefunden\nMögliche Ursache:    Link-Liquidität versiegt\nMögliche Lösung:    Aufmerksamkeit auf gültige URLs umverteilen",
+          "404 Fehler: Undefiniert\nMögliche Ursache:    Modellspezifikationsfehler\nMögliche Lösung:    Einen einfacheren Pfad ausprobieren"
+        ];
+
+        var elEn = document.getElementById("error-en");
+        var elDe = document.getElementById("error-de");
+
+        if (elEn) elEn.textContent = enMessages[Math.floor(Math.random() * enMessages.length)];
+        if (elDe) elDe.textContent = deMessages[Math.floor(Math.random() * deMessages.length)];
+
+        // Auto-detect language from URL
+        if (window.location.pathname.startsWith("/de/")) {
+          setLang("de");
+        } else {
+          setLang("en");
+        }
+      })();
+    </script>
+
+  </div>
+{{ end }}

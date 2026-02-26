@@ -20,6 +20,6 @@ keywords:
   - Stahn
 ---
 
-The easiest way to contact me is via e-mail: [gerrit.stahn93.gs4@gmail.com](gerrit.stahn93.gs4@gmail.com)
+The easiest way to contact me is via e-mail: [gerrit.stahn93.gs4@gmail.com](mailto:gerrit.stahn93.gs4@gmail.com)
 
 Are you interested in my projects? Then check out my [GitHub page](https://github.com/GStahn).
