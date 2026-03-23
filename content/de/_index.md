@@ -5,7 +5,7 @@ params:
   lang: de
 ---
 
-## *Grüsch dich Meiner!*
+## *[Grüsch dich Meiner!](https://www.der-kleine-prinz-in-hundert-sprachen.de/hallesch)*
 
 ---
 
