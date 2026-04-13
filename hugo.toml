@@ -25,8 +25,8 @@ unsafe= true
 #  homeTitle = "Dr. Gerrit Stahn" # Set a different text for the header on the home page
 #  subtitle = "Welcome to my personal webpage."
   mainSections = ["post","posts"]
-  logo = "img/mypicture.JPG" # Expecting square dimensions
-  favicon = "img/favicon.png"
+  logo = "/img/mypicture.JPG" # Expecting square dimensions
+  favicon = "/img/favicon.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
@@ -77,9 +77,14 @@ unsafe= true
             weight = 2
         [[languages.en.menus.main]]
             parent = "about"
+            name = "Research"
+            url = "page/research/"
+            weight = 3
+        [[languages.en.menus.main]]
+            parent = "about"
             name = "Contact"
             url = "page/contact/"
-            weight = 3
+            weight = 4
         [[languages.en.menus.main]]
             name = "Money Talks"
 #            identifier = "money"
@@ -149,9 +154,14 @@ unsafe= true
             weight = 2
         [[languages.de.menus.main]]
             parent = "über"
+            name = "Forschung"
+            url = "page/research/"
+            weight = 3
+        [[languages.de.menus.main]]
+            parent = "über"
             name = "Kontakt"
             url = "page/contact/"
-            weight = 3
+            weight = 4
         [[languages.de.menus.main]]
             name = "Geld-Gerede"
             url = "page/money/"
