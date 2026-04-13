@@ -77,6 +77,16 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Convert BibTeX to JSON
+        run: |
+          python scripts/bib_to_json.py
       - name: Build the site
         run: |
           hugo \
