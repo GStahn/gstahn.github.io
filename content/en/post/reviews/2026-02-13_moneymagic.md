@@ -1,6 +1,7 @@
 ---
 title: "Review: Money Magic"
 subtitle: "by Laurence J. Kotlikoff"
+author: "Gerrit Stahn"
 permalink: /reviews/
 params:
   lang: en

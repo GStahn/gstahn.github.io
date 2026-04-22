@@ -3,6 +3,7 @@ title: "Research"
 date: 2026-04-13
 draft: false
 permalink: /research/
+author: "Gerrit Stahn"
 page_id: research
 params:
   lang: en

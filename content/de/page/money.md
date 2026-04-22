@@ -1,5 +1,6 @@
 ---
 title: Geld-Gerede
+author: "Gerrit Stahn"
 permalink: /money/
 params:
   lang: de

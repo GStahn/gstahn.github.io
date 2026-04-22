@@ -1,6 +1,7 @@
 ---
 title: Lebenslauf
 permalink: /cv/
+author: "Gerrit Stahn"
 params:
   lang: de
 page_id: cv

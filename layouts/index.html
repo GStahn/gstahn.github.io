@@ -1,0 +1,55 @@
+{{ define "main" }}
+  <div role="main" class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div class="well">
+            {{ . }}
+          </div>
+        {{ end }}
+
+        {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+        {{ $pag := .Paginate $pages }}
+
+        {{ $featured := first 3 $pag.Pages }}
+        {{ $older := after 3 $pag.Pages }}
+
+        <!-- Neueste 3 Posts mit Preview/Bild -->
+        <div class="posts-list">
+          {{ range $featured }}
+            {{ partial "post_preview" . }}
+          {{ end }}
+        </div>
+
+        <!-- Ältere Posts nur als Titelliste -->
+        {{ if gt (len $older) 0 }}
+          <div class="older-posts">
+            <h3>{{ i18n "olderPosts" }}</h3>
+            <ul class="list-unstyled">
+              {{ range $older }}
+                <li style="margin-bottom: 0.5em;">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+
+        {{ if or ($pag.HasPrev) ($pag.HasNext) }}
+          <ul class="pager main-pager">
+            {{ if $pag.HasPrev }}
+              <li class="previous">
+                <a href="{{ .Permalink }}page/{{ $pag.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
+              </li>
+            {{ end }}
+            {{ if $pag.HasNext }}
+              <li class="next">
+                <a href="{{ .Permalink }}page/{{ $pag.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

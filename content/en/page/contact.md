@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+author: "Gerrit Stahn"
 permalink: /contact/
 params:
   lang: en

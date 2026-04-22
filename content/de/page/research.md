@@ -1,5 +1,6 @@
 ---
 layout: research
+author: "Gerrit Stahn"
 title: "Forschung"
 permalink: /research/
 page_id: research

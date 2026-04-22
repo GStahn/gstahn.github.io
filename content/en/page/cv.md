@@ -1,6 +1,7 @@
 ---
 title: CV
 permalink: /cv/
+author: "Gerrit Stahn"
 params:
   lang: en
 page_id: cv

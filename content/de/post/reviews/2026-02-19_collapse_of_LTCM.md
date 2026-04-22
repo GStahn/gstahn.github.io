@@ -2,6 +2,7 @@
 title: "Review: Hedge Funds and the Collapse of Long-Term Capital Management"
 subtitle: von Franklin R. Edwards
 date: "2026-02-19"
+author: "Gerrit Stahn"
 params:
   lang: de
 page_id: reviews

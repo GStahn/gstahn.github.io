@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+author: "Gerrit Stahn"
 permalink: /about/
 params:
   lang: en

@@ -1,5 +1,6 @@
 ---
 title: 'Review: Money Magic'
+author: "Gerrit Stahn"
 subtitle: von Laurence J. Kotlikoff
 date: "2026-02-13"
 page_id: reviews

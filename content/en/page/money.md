@@ -4,6 +4,7 @@ permalink: /money/
 params:
   lang: en
 page_id: money
+author: "Gerrit Stahn"
 date: 2025-12-02
 description: "A stress-free introduction to personal finance: stocks, ETFs, private retirement planning and insurance explained clearly – open, honest, and with no product sales."
 keywords:

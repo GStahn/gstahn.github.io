@@ -1,6 +1,7 @@
 ---
 title: "Impressum"
 date: 2025-01-01
+author: "Gerrit Stahn"
 permalink: /imprint/
 params:
   lang: de
