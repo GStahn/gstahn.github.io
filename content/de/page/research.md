@@ -6,7 +6,6 @@ permalink: /research/
 page_id: research
 date: 2026-04-13
 draft: false
-author: "Gerrit Stahn"
 params:
   lang: de
 

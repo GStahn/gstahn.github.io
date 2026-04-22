@@ -6,7 +6,6 @@ params:
   lang: de
 page_id: money
 date: 2025-12-02
-author: "Gerrit Stahn"
 description: "Eine stressfreie Einführung in Finanzen: Aktien, ETFs, private Altersvorsorge und Versicherungen einfach erklärt – offen, ehrlich und ohne Produktverkauf."
 keywords:
   - Finanzen einfach erklärt
