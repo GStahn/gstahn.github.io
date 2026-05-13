@@ -102,28 +102,38 @@ unsafe= true
 #            weight = 2
         [[languages.en.menus.main]]
             identifier = "projects"
-            name = "GitHub Projects"
+            name = "Projects"
             weight = 3
+        [[languages.en.menus.main]]
+            parent = "projects"
+            name = "Overview"
+            url = "post/projects"
+            weight = 1
+        [[languages.en.menus.main]]
+            parent = "projects"
+            name = "RegioIndex"
+            url = "https://github.com/GStahn/ranking_german_counties"
+            weight = 2
         [[languages.en.menus.main]]
             parent = "projects"
             name = "Ranking German Districts"
             url = "https://github.com/GStahn/ranking_german_districts"
-            weight = 1
+            weight = 3
         [[languages.en.menus.main]]
             parent = "projects"
             name = "Team Assignment App"
             url = "https://github.com/GStahn/Shiny_random_teams"
-            weight = 2
+            weight = 4
         [[languages.en.menus.main]]
             parent = "projects"
             name = "Driving Time Calculation to Ischgl from German Districts"
             url = "https://github.com/GStahn/driving_time_ischgl"
-            weight = 3
+            weight = 5
         [[languages.en.menus.main]]
             parent = "projects"
             name = "Repository for this Website"
             url = "https://github.com/GStahn/gstahn.github.io"
-            weight = 4
+            weight = 6
         [[languages.en.menus.main]]
             name = "Memes"
             url = "post/memes/"
@@ -179,28 +189,38 @@ unsafe= true
 #            weight = 2
         [[languages.de.menus.main]]
             identifier = "projekte"
-            name = "GitHub Projekte"
+            name = "Projekte"
             weight = 3
+        [[languages.de.menus.main]]
+            parent = "projekte"
+            name = "Übersicht"
+            url = "post/projects/"
+            weight = 1
+        [[languages.de.menus.main]]
+            parent = "projekte"
+            name = "RegioIndex"
+            url = "https://github.com/GStahn/ranking_german_counties"
+            weight = 2
         [[languages.de.menus.main]]
             parent = "projekte"
             name = "Ranking deutscher Kreise"
             url = "https://github.com/GStahn/ranking_german_districts"
-            weight = 1
+            weight = 3
         [[languages.de.menus.main]]
             parent = "projekte"
             name = "Team-Zuweisungs-App"
             url = "https://github.com/GStahn/Shiny_random_teams"
-            weight = 2
+            weight = 4
         [[languages.de.menus.main]]
             parent = "projekte"
             name = "Fahrzeitberechnung nach Ischgl aus deutschen Kreisen"
             url = "https://github.com/GStahn/driving_time_ischgl"
-            weight = 3
+            weight = 5
         [[languages.de.menus.main]]
             parent = "projekte"
             name = "Repository für diese Website"
             url = "https://github.com/GStahn/gstahn.github.io"
-            weight = 4
+            weight = 6
         [[languages.de.menus.main]]
             name = "Memes"
             url = "post/memes/"
