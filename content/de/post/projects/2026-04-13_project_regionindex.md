@@ -82,7 +82,7 @@ Die aktuelle Beta-Version ist hier verfügbar:
 
 Da es sich noch um eine Beta-Version handelt, ist der Zugriff durch einen einfachen Login geschützt. Nach dem Öffnen der App gib den Benutzernamen **icke** und das Passwort **hack** ein.[^1]
 
-[^1]: Ich habe diese Login-Seite eingebaut, weil ich die App eigentlich an irgendein Unternehmen verkaufen wollte, das daran interessiert ist. Das Bild auf der Login-Seite sagt alles. Aber ich habe nie angefangen, Unternehmen zu kontaktieren. Das wäre mir zu viel Arbeit gewesen, dachte ich mir, und mit dem Projekt online zu flexen ist auch genug Lohn.
+[^1]: Ich habe diese Login-Seite eingebaut, weil ich die App eigentlich an irgendein Unternehmen verkaufen wollte, das daran interessiert ist. Das erste Bild auf der Login-Seite sagt alles. Aber ich habe nie angefangen, Unternehmen zu kontaktieren. Das wäre mir zu viel Arbeit gewesen, dachte ich mir, und mit dem Projekt online zu flexen ist auch genug Lohn.
 
 ![Login screen of the RegioIndex beta version](/img/regioindex/start.png)
 
@@ -170,9 +170,13 @@ RegioIndex ist mein Versuch, regionale Vergleiche interaktiver, transparenter un
 
 ## Probier es selbst aus
 
-Die Beta-Version ist hier verfügbar:
+Die Beta-Version (in Deutsch) ist hier verfügbar:
 
 [https://gstahn.shinyapps.io/Beta_counties/](https://gstahn.shinyapps.io/Beta_counties/)
+
+Die Beta-Version (in Englisch) gibt es über folgenden Link:
+
+[https://gstahn.shinyapps.io/Beta_counties_en/](https://gstahn.shinyapps.io/Beta_counties_en/)
 
 Das Projekt-Repository findest du hier:
 

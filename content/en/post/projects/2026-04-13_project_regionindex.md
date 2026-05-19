@@ -73,13 +73,17 @@ That is progress. Or at least a very elaborate way to move sliders and judge pla
 
 ## How to access the beta version
 
-The current beta version is available here:
+The current beta version (in English) is available here:
+
+[https://gstahn.shinyapps.io/Beta_counties_en/](https://gstahn.shinyapps.io/Beta_counties_en/)
+
+The German beta version is available here:
 
 [https://gstahn.shinyapps.io/Beta_counties/](https://gstahn.shinyapps.io/Beta_counties/)
 
 Since this is still a beta version, access is protected by a simple login screen. After opening the app, enter the username **icke** and the password **hack**.[^1]
 
-[^1]: I added this login page, since I wanted to sell this app to any company interested in buying it. The picture on the login page says it all. But I did not start to contact companies. It would be too much work, I imagined, and flexing with the project online is enough payback for me. 
+[^1]: I added this login page, since I wanted to sell this app to any company interested in buying it. The first picture on the login page says it all. But I did not start to contact companies. It would be too much work, I imagined, and flexing with the project online is enough payback for me. 
 
 ![Login screen of the RegioIndex beta version](/img/regioindex/start.png)
 
