@@ -5,7 +5,7 @@ author: "Gerrit Stahn"
 params:
   lang: de
 page_id: cv
-description: "Lebenslauf von Gerrit Stahn: promovierter Volkswirt mit Expertise in Datenanalyse, empirischer Forschung, öffentlicher Gesundheit sowie R- und Python-Programmierung. Berufliche Stationen, Projekte und Kompetenzen im Überblick."
+description: "Lebenslauf von Gerrit Stahn: Promovierter Volkswirt mit Expertise in Datenanalyse, empirischer Forschung, öffentlicher Gesundheit sowie R- und Python-Programmierung. Berufliche Stationen, Projekte und Kompetenzen im Überblick."
 keywords:
   - Gerrit Stahn Lebenslauf
   - Volkswirt CV
@@ -34,7 +34,7 @@ keywords:
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   ">
     <iframe 
-      src="/pdf/Stahn_CV_de.pdf"
+      src="/pdf/Stahn_Resume_Website_July26_de.pdf"
       style="width:100%; height:850px; border:none;">
     </iframe>
   </div>

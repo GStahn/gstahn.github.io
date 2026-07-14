@@ -72,7 +72,7 @@ unsafe= true
             weight = 1
         [[languages.en.menus.main]]
             parent = "about"
-            name = "CV"
+            name = "Resume"
             url = "page/cv/"
             weight = 2
         [[languages.en.menus.main]]

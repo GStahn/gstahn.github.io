@@ -1,11 +1,11 @@
 ---
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 author: "Gerrit Stahn"
 params:
   lang: en
-page_id: cv
-description: "Curriculum vitae of Gerrit Stahn: PhD economist with expertise in data analysis, empirical research, public health economics, and R/Python programming. An overview of professional experience, projects, and key competencies."
+page_id: resume
+description: "Resume of Gerrit Stahn: PhD economist with expertise in data analysis, empirical research, public health economics, and R/Python programming. An overview of professional experience, projects, and key competencies."
 keywords:
   - Gerrit Stahn CV
   - economist resume
@@ -34,7 +34,7 @@ keywords:
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   ">
     <iframe 
-      src="/pdf/Stahn_CV_en.pdf"
+      src="/pdf/Stahn_Resume_Website_July26_en.pdf"
       style="width:100%; height:850px; border:none;">
     </iframe>
   </div>
