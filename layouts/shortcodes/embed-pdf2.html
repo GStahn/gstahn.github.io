@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2685.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #20242d; -webkit-text-stroke: #20242d}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;div class="pdf-embed-wrapper"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;iframe</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>src="{{ .Get "src" }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>width="{{ .Get "width" | default "100%" }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>height="{{ .Get "height" | default "600px" }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>style="border: 1px solid #ccc; border-radius: 4px;"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>loading="lazy"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;p&gt;Your browser doesn't support embedded PDFs.</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">       </span>&lt;a href="{{ .Get "src" }}"&gt;Download the PDF here&lt;/a&gt; instead.&lt;/p&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/iframe&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/div&gt;</span></p>
+</body>
+</html>
