@@ -34,9 +34,18 @@ keywords:
     box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   ">
     <iframe 
-      src="/pdf/Stahn_Resume_Website_July26_de.pdf"
+      src="/pdf/Stahn_Resume_Website_July26_2_de.pdf"
       style="width:100%; height:850px; border:none;">
     </iframe>
   </div>
+    <p style="
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #555;
+  ">
+    Mein Lebenslauf
+  </p>
 </div>
 
