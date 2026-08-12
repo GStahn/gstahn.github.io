@@ -86,11 +86,6 @@ unsafe= true
             url = "page/contact/"
             weight = 4
         [[languages.en.menus.main]]
-            parent = "about"
-            name = "My Shirt"
-            url = "page/shirt_contact/"
-            weight = 4
-        [[languages.en.menus.main]]
             name = "Money Talks"
 #            identifier = "money"
             url = "page/money/"

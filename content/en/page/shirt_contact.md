@@ -6,6 +6,10 @@ draft: false
 description: "QR Code Landing Page"
 layout: "single"
 author: Gerrit Stahn
+params:
+  lang: en
+permalink: /shirt_contact/
+page_id: shirt_contact
 ---
 
 # You Found the Economist Behind the Shirt! 👕📊
@@ -34,12 +38,11 @@ Drop me a line or two in my [inbox](mailto:gerrit.stahn93.gs4@gmail.com).
 
 
 ### 💼 Connect professionally
-Let's expand our professional networks through [LinkedIn (link)](https://www.linkedin.com/in/gerrit-stahn-phd-7951b4313/).
+Let's expand our professional networks through [LinkedIn](https://www.linkedin.com/in/gerrit-stahn-phd-7951b4313/).
 
 Our if you are interested in my current (data) projects: 
 [Have a look at my GitHub repos](https://github.com/GStahn). 
 
 
 ### 🌐 Explore My Website
-Want to see more of my work? Take a look around my personal website to explore my full portfolio. 
-Start exploring here: [gstahn.de](https://gstahn.de)
+Want to see more of my work? Take a look around my personal website: [gstahn.de](https://gstahn.de)
