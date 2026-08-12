@@ -24,6 +24,11 @@ keywords:
 
 ## ![Anakin - Padme - Würdest du ihnen vertrauen?](/img/memes/padme_trustllms.jpg)
 
+##
+
+------------------------------------------------------------------------
+##
+
 **Kontext:** Nachdem ich gerade ohne festes monatliches Einkommen nach Vancouver in Kanada gezogen bin, greife ich auf mein angespartes Vermögen zurück, um meinen aktuellen Konsum zu glätten.[^1] Diese Ersparnisse verteilen sich auf ein Tagesgeldkonto und einen Geldmarktfonds, was mich vor eine sehr praktische Frage stellte: Welchen Topf sollte ich zuerst angreifen? Als Ökonom habe ich das natürlich umformuliert zu „Welche Option verursacht für den Rest des Jahres die höheren Opportunitätskosten in Form entgangener Zinsen?" — und beschlossen, entgangene Zinsen als alleiniges Maß der Opportunitätskosten zu behandeln.
 
 [^1]: Für alle, die keine Ökonomen sind: Das bedeutet, dass ich in Kanada keinen Job habe und meine Rechnungen mit meinen Ersparnissen bezahle.
@@ -33,9 +38,7 @@ Ein paar Details machten den Vergleich kniffliger, als er zunächst scheint. Ers
 Ich habe die Zahlen natürlich zuerst selbst durchgerechnet, war aber neugierig, ob ein LLM zum gleichen Ergebnis kommen würde. Unten befinden sich die Antworten von ChatGPT (GPT-5.5), Google Gemini (3.5 Flash) und Claude (Sonnet 5) auf einen identischen Prompt, mit 1.000 € auf dem Konto und 950 € im Fonds:
 
 ------------------------------------------------------------------------
-
-Vergleiche die Zinserträge über einen Einjahreszeitraum (beginnend am 1. Januar 2026) für zwei verschiedene Anlagen: Anlage 1: Am 20. Mai habe ich 1.000 € investiert. Ich erhalte bis zum 20. September einen Aktionszinssatz von 4 % p.a. Ab dem 21. September sinkt der Zinssatz auf 2 % p.a. Anlage 2: Am 8. August 2025 habe ich 950 € investiert. Für diese Anlage erhalte ich dauerhaft einen Zinssatz von 2 % p.a.
-
+> Prompt: Vergleiche die Zinserträge über einen Einjahreszeitraum (beginnend am 1. Januar 2026) für zwei verschiedene Anlagen: Anlage 1: Am 20. Mai habe ich 1.000 € investiert. Ich erhalte bis zum 20. September einen Aktionszinssatz von 4 % p.a. Ab dem 21. September sinkt der Zinssatz auf 2 % p.a. Anlage 2: Am 8. August 2025 habe ich 950 € investiert. Für diese Anlage erhalte ich dauerhaft einen Zinssatz von 2 % p.a.
 ------------------------------------------------------------------------
 
 Alle drei Modelle teilen denselben grundlegenden Fehler bei Anlage 2. Bevor du weiterliest: Versuch selbst, ihn zu finden.
@@ -67,6 +70,9 @@ Alle drei Modelle teilen denselben grundlegenden Fehler bei Anlage 2. Bevor du w
   </p>
 </div>
 
+------------------------------------------------------------------------
+##
+
 <div style="
   margin: 2rem auto;
   max-width: 900px;
@@ -93,6 +99,9 @@ Alle drei Modelle teilen denselben grundlegenden Fehler bei Anlage 2. Bevor du w
     Ausgabe von Gemini
   </p>
 </div>
+
+------------------------------------------------------------------------
+##
 
 <div style="
   margin: 2rem auto;
@@ -121,6 +130,9 @@ Alle drei Modelle teilen denselben grundlegenden Fehler bei Anlage 2. Bevor du w
   </p>
 </div>
 
+------------------------------------------------------------------------
+##
+
 Hier der Haken: Jedes der drei Modelle geht davon aus, dass die Fonds-Anlage erst ab dem 1. Januar 2026 Erträge erwirtschaftet — obwohl das Geld dort tatsächlich schon seit August 2025 Rendite erzeugt. Das klingt zunächst nach einer vernünftigen Vereinfachung, da der Prompt den Vergleichszeitraum ab dem 1. Januar rahmt — aber dabei werden stillschweigend die vor diesem Datum bereits erbrachten Zinsen ignoriert. Berücksichtigt man die rund 145 Tage zwischen der Einzahlung im August 2025 und dem Jahresende, hätte der Fonds bereits Folgendes erwirtschaftet:
 
 $$
@@ -139,4 +151,4 @@ Es lohnt sich auch, zu vergleichen, wie die drei Modelle Anlage 1 gehandhabt hab
 
 Wo also liegt das eigentliche Problem? Es stellt sich heraus, dass es in der Formulierung meines Prompts verankert ist. Ersetzt man „über einen Einjahreszeitraum (beginnend am 1. Januar 2026)" einfach durch „im Jahr 2026", verschiebt sich das Bild: Claude errechnet zwar wieder den "falschen" Betrag su, weist aber nun darauf hin, dass es Zinseszinseffekte bei der ersten Anlage außer Acht lässt. Gemini kommt zum „Doktortitel-in-Ökonomk"-Ergebnis. ChatGPT liegt weiterhin genauso weit daneben wie zuvor.
 
-Die Erkenntnis (wieder einmal): Überlasst eure Geldentscheidungen nicht blind einem LLM — genau das ist die Pointe des Memes. Behandelt diese Tools allenfalls als Möglichkeit, eure eigene Überlegung gegenzuprüfen und nicht als Ersatz dafür. Und wenn ihre Antworten sich zu deinen widersprechen, ist das ein Signal, dass du falschliegen könntest — aber womöglich auch nicht.
+Die Erkenntnis (wieder einmal): Überlasst eure Geldentscheidungen nicht blind einem LLM — genau das ist die Pointe des Memes. Behandelt diese Tools allenfalls als Möglichkeit, eure eigene Überlegung gegenzuprüfen und nicht als Ersatz dafür. Und wenn ihre Antworten sich zu deinen widersprechen, ist das nur ein Signal, dass du falschliegen könntest — aber womöglich auch nicht.
