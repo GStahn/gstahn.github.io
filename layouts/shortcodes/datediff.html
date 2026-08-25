@@ -1,0 +1,14 @@
+{{/* layouts/shortcodes/datediff.html */}}
+{{ $target := .Get 0 | time.AsTime }}
+{{ $targetYear := $target.Format "2006" | int }}
+{{ $currentYear := now.Format "2006" | int }}
+
+{{/* Calculate raw year difference */}}
+{{ $years := sub $currentYear $targetYear }}
+
+{{/* Adjust if the current date hasn't reached the anniversary yet this year */}}
+{{ if and (gt $years 0) (lt now.YearDay $target.YearDay) }}
+  {{ $years = sub $years 1 }}
+{{ end }}
+
+<span>{{ $years }}</span>

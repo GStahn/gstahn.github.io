@@ -23,9 +23,18 @@ keywords:
   - Stahn
 ---
 
+## Kurzprofil
+
+- 🎓 **Dr. der Volkswirtschaftslehre**, MLU Halle-Wittenberg  
+- 💡 Spezialisiert auf **Datenanalyse, empirische Forschung und Data Storytelling**  
+- 🧠 Erfahrung mit **R, Python, LaTeX, Markdown, Statistik, Visualisierung und Datenpipelines**  
+- 🎶 Leidenschaft für **Musik, Sport und interdisziplinäre Ideen**  
+- 💬 Offen für Gespräche über **Geld**
+---
+
 # Hallo, ich bin Gerrit 👋
 
-Ich bin promovierter **Volkswirt** und **Datenenthusiast**. Seit mehr als sechs Jahren beschäftige ich mich damit, aus großen Datensätzen **klare und greifbare Erkenntnisse** zu gewinnen.
+Ich bin promovierter **Volkswirt** und **Datenenthusiast**. Seit mehr als {{< datediff "2019-05-01" >}} Jahren beschäftige ich mich damit, aus großen Datensätzen **klare und greifbare Erkenntnisse** zu gewinnen.
 
 In meiner Forschung an der Martin-Luther-Universität Halle-Wittenberg beschäftige ich mich mit **öffentlicher Gesundheit und datenbasierter Wirtschaftsforschung**. Mich fasziniert, wie man mit der richtigen Struktur, Methodik und einer Portion Neugier Ordnung in komplexe Zusammenhänge bringen kann.
 
@@ -55,14 +64,3 @@ Obwohl - eigentlich wundert mich es doch nicht: Finanzthemen sind komplex, und e
 Durch mein Studium, meine persönlichen Erfahrungen und mein Engagement im [Akademischen Börsenkreis der Universität Halle e.V.](https://www.boersenkreis-halle.de) konnte ich mir ein fundiertes Verständnis der Finanzwelt aneignen – Wissen, das ich gerne **kostenlos weitergebe**.  
 
 Mehr dazu findest du [hier](/page/money/).
-
----
-
-## Kurzprofil
-
-- 🎓 **Dr. in Volkswirtschaftslehre**, MLU Halle-Wittenberg  
-- 💡 Spezialisiert auf **Datenanalyse, empirische Forschung und Data Storytelling**  
-- 🧠 Erfahrung mit **R, Python, LaTeX, Markdown, Statistik, Visualisierung und Datenpipelines**  
-- 🎶 Leidenschaft für **Musik, Sport und interdisziplinäre Ideen**  
-- 💬 Offen für Gespräche über **Geld**
-

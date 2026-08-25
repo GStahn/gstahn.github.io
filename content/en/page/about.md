@@ -23,9 +23,18 @@ keywords:
   - Stahn
 ---
 
+## Quick Facts
+
+- 🎓 **Ph.D. in Economics**, MLU Halle-Wittenberg  
+- 💡 Specialized in **data analysis, empirical research, and data storytelling**  
+- 🧠 Experienced with **R, Python, LaTeX, Markdown, statistics, visualization, and data pipelines**  
+- 🎶 Passionate about **music, sports, and interdisciplinary ideas**  
+- 💬 Always open for conversations about **money**
+---
+
 # Hi, I'm Gerrit 👋
 
-I’m a **Ph.D. economist** and **data enthusiast**. For more than six years, I’ve been turning large datasets into **clear and tangible insights**.
+I’m a **Ph.D. economist** and **data enthusiast**. For more than {{< datediff "2019-05-01" >}} years, I’ve been turning large datasets into **clear and tangible insights**.
 
 At Martin Luther University Halle-Wittenberg, my research focuses on **public health and data-driven economic analysis**. What fascinates me most is how the right structure, methods, and a touch of curiosity can bring clarity to complex relationships.
 
@@ -55,14 +64,3 @@ Then again, maybe it’s not so surprising: finance is complex, and there are ce
 Through my studies, personal experiences, and my involvement with the [Academic Stock Market Club at the Martin Luther University Halle](https://www.boersenkreis-halle.de), I’ve developed a solid understanding of the financial world – knowledge that I’m eager to **share for free**.  
 
 You can find out more about that [here](/page/money/).
-
----
-
-## Quick Facts
-
-- 🎓 **Ph.D. in Economics**, MLU Halle-Wittenberg  
-- 💡 Specialized in **data analysis, empirical research, and data storytelling**  
-- 🧠 Experienced with **R, Python, LaTeX, Markdown, statistics, visualization, and data pipelines**  
-- 🎶 Passionate about **music, sports, and interdisciplinary ideas**  
-- 💬 Always open for conversations about **money**
-
