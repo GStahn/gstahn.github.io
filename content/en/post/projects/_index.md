@@ -6,9 +6,9 @@ params:
 permalink: /post/projects/
 ---
 
-### Overview about my projects
+### Blog posts about my projects
 
-here you will find my projects and (potentially) corresponding blog posts. If you can not find a blog post about a specific project, the chances are very high that you will find a well-written README file about it somewhere.
+Here you will find corresponding posts about some of my projects. If you can not find one about a specific project, the chances are very high that you will either find a well-written README file about it on GitHub (see [my GitHub page](https://github.com/GStahn)) or written article (see [my research](/page/research/)) somewhere.
 
 ---
 

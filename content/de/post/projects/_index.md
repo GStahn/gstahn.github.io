@@ -5,8 +5,8 @@ params:
   lang: de
 ---
 
-### Übersicht über meine Projekte
+### Beiträge über meine Projekte
 
-Hier findest du meine Projekte sowie (eventuell) dazu passende Beiträge. Falls du zu einem bestimmten Projekt keinen Blogbeitrag findest, ist die Wahrscheinlichkeit sehr hoch, dass du irgendwo eine gut geschriebene README-Datei dazu findest.
+Hier findest du Beiträge über manche meiner Projekte. Falls du zu einem bestimmten Projekt keinen findest, ist die Wahrscheinlichkeit sehr hoch, dass du irgendwo entweder eine gut geschriebene README-Datei auf GitHub (siehe [meine GitHub Seite](https://github.com/GStahn)) oder einen geschriebenen Artikel (siehe [meine Forschung](/page/research/)) findest.
 
 --- 
