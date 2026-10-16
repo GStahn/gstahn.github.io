@@ -7,7 +7,7 @@ tags: ["Research", "COVID-19", "Elections", "Health Economics", "Publication"]
 slug: "bavaria-election-covid"
 translationKey: "wahlen-bayern-corona"
 author: "Gerrit Stahn"
-draft: true
+draft: false
 ---
 
 On March 15, 2020, nearly ten million eligible voters in Bavaria went to the polls for local municipal elections — just days after the WHO had officially declared COVID-19 a pandemic. While other German states and many countries postponed elections or switched entirely to mail-in voting, most Bavarians cast their vote in person, as usual. A few weeks later, Bavaria had the highest COVID-19 case and death counts of any German state.

@@ -7,7 +7,7 @@ tags: ["Forschung", "COVID-19", "Wahlen", "Gesundheitsökonomie", "Publikation"]
 slug: "wahlen-bayern-corona"
 translationKey: "wahlen-bayern-corona"
 author: "Gerrit Stahn"
-draft: true
+draft: false
 ---
 
 Am 15. März 2020 gingen fast zehn Millionen Wahlberechtigte in Bayern zur Kommunalwahl – nur wenige Tage, nachdem die WHO COVID-19 offiziell zur Pandemie erklärt hatte. Während andere Bundesländer und Länder Wahlen verschoben oder auf reine Briefwahl umstellten, fand in Bayern ein Großteil der Stimmabgabe ganz normal an der Wahlurne statt. Wenige Wochen später hatte Bayern die höchsten COVID-19-Fallzahlen und Todeszahlen aller deutschen Bundesländer.
